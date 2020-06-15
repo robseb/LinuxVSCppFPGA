@@ -1,0 +1,26 @@
+var group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r =
+[
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_s", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#struct_a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r__s", [
+      [ "base", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#a43d6deeef8ea7c77d798ce29f32571a0", null ],
+      [ "limit", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#a13d51d6a610596108cf0cc02e29c56a1", null ]
+    ] ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_BASE_LSB", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga9417a7582311146a326b5921bdb1967b", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_BASE_MSB", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga2a902c568a27c68a4c12d1ab778215b7", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_BASE_WIDTH", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga3095af91075c9b24c74e087c4fd18cfc", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_BASE_SET_MSK", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#gab2b3f257b0500782d32e044bda774fd3", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_BASE_CLR_MSK", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga031274d0a7f8ed9a13e7153581557297", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_BASE_RESET", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga5d17910149d2520e622da07b9422f705", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_BASE_GET", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga7cc5c384cec58f4234560d9bfd97c05d", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_BASE_SET", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#gaad6a31ba81ff4945d7ca0cec592f339b", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_LIMIT_LSB", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga82e58a83e5995752cddacc8f0e1ad5a1", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_LIMIT_MSB", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga681eebfb0dfd72fac70e5a9386345470", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_LIMIT_WIDTH", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga24215b9e7a3faedd3dc45a4a57a366c7", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_LIMIT_SET_MSK", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#gad6777ebbf326e004c559ab42369948d4", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_LIMIT_CLR_MSK", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga9f714dbe5e5bd706c33ed280e0a0582b", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_LIMIT_RESET", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#gaad38ccaf2d1b0f407eb56d933635035d", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_LIMIT_GET", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#gae34f7f8ff90adc039de9965954f9503e", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_LIMIT_SET", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga2137eb7eb84fb07f1dbec25668c9f480", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_RESET", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#gad5839b0fbd55c05996944427a01753b8", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_OFST", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga3070f18c661c2848a6f4b07d3725483a", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_t", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___f2_s_d_r1_r_e_g2_a_d_d_r.html#ga2b0b7cdf2ce932107da7da81919c3768", null ]
+];

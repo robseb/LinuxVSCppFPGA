@@ -1,0 +1,36 @@
+var group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n =
+[
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_s", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#struct_a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n__s", [
+      [ "value", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#a062846e83c9958f6a45c75c1162445bc", null ],
+      [ "__pad0__", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#aa8d806be0890280534ebfa32f89978b2", null ],
+      [ "continous_burst", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#a909300f4b70549cc48614cce8afacb31", null ],
+      [ "__pad1__", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#a7b185979be23c1d61578a0db482d2de6", null ],
+      [ "reserved", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#a150345161c17b8ceeebd9adbb6a23bf7", null ]
+    ] ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_VALUE_LSB", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#gaccb14c0a6b2e1a879ff70c263b9be434", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_VALUE_MSB", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga79baec3505effae1d5ea23681069f5e5", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_VALUE_WIDTH", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga92715b30cb862d7711682f91677d714b", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_VALUE_SET_MSK", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#gaa425bc79596307e5e235965d67fcb8f4", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_VALUE_CLR_MSK", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#gaee530fed1013a742df3fa07f58981132", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_VALUE_RESET", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga7efdb7e3e971464d8add914c781d6e57", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_VALUE_GET", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga42f59ddcc935d33ea946d23bb2a23c39", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_VALUE_SET", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#gab44022ac745af1756a38f18a34a79fd3", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_CONTINOUS_BURST_LSB", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga4697b241625139f562508df51ff20370", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_CONTINOUS_BURST_MSB", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga0a6fbff9cca75114bc63e1b74e19803a", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_CONTINOUS_BURST_WIDTH", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga51f590947db2ab56f9f2a683a6608910", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_CONTINOUS_BURST_SET_MSK", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#gadf26d1b23c2d6b012039174b08f9523b", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_CONTINOUS_BURST_CLR_MSK", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#gaf84c30ee517b864dcf71ec07dc4df75e", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_CONTINOUS_BURST_RESET", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#gaf5ceafe6d1bd47a4b62c8911d461c072", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_CONTINOUS_BURST_GET", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#gaebe899e19c5b55714d6346fbc6bb3dc9", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_CONTINOUS_BURST_SET", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga5704d67db8ea352dbeb52dbc34258a96", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_RSVD_LSB", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga9681d2ee2322ba901c90ff5b0d61f191", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_RSVD_MSB", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga4c87d493bd3cdd3c4cee3898be7855ef", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_RSVD_WIDTH", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga30f39bd04e080679ed82406d61f0331d", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_RSVD_SET_MSK", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#gafe001912bfa5403ae51d600da960c0b1", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_RSVD_CLR_MSK", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga4a4a02a595312d12b6eb3a1610a7944f", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_RSVD_RESET", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#gacbd35f5b7e9ee0e0b1b30d22a5fd5fea", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_RSVD_GET", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga00d95282cbd5ad929dc0ca5f6dc4e4d7", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_RSVD_SET", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga9a6ddeba7a2899061ce3f7b01c4de39a", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_OFST", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga13c22156b9c13fc84ea484cb1516f576", null ],
+    [ "ALT_NAND_DMA_FLSH_BURST_LEN_t", "group___a_l_t___n_a_n_d___d_m_a___f_l_s_h___b_u_r_s_t___l_e_n.html#ga466f27e4ad3ddd9ce0250ce5a02e1c00", null ]
+];

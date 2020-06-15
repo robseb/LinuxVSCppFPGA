@@ -1,0 +1,37 @@
+var group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i =
+[
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_s", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#struct_a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i__s", [
+      [ "P0", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#afe43ee80ed62955706c8b2def32022c1", null ],
+      [ "__pad0__", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#adc5cf73bd2909367414a751bad7689ae", null ],
+      [ "P1", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#aeba9a69e3154146717319d9a1cda7371", null ],
+      [ "__pad1__", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#a74465beabf974a1893f1f173a43b78ca", null ],
+      [ "MARK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#a9977cb6a1797d572daeaa4294d84c49d", null ]
+    ] ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P0_LSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#gadf63d7672a3c9a57fec5979c862b1a47", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P0_MSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga90b5c4647620ed3104dface84eeb3da1", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P0_WIDTH", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga4c4d5e21f90b7a72072b717e2afbfe45", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P0_SET_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga0879668e15d932fe1c57455cefb5f95c", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P0_CLR_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga45b2796ffcf4760cc84063f924b837fe", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P0_RESET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga24eba512b49eec26c7f55da0401c2bdb", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P0_GET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga57faf8a0169675f7a81ee8f0e1c5c660", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P0_SET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga03d8552ac37590587d69e872bc948d62", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P1_LSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#gaaf498f92525d144b1999210a8f1e7054", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P1_MSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#gaf1dd92fd3f7253d2f6451ee23e244c9e", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P1_WIDTH", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga5ad60350eca0ab66890f1098992d83f1", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P1_SET_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#gaf4465d9c09dfa0a22ea2bd15a77a21c1", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P1_CLR_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#gaad33abc1ce89d373ff1ce333a47dc294", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P1_RESET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga9428d5f554cc719c4d41db7e2f092d5e", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P1_GET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga06fe238d5a7330b7954241b629cdb95d", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_P1_SET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#gab9178bca2871d2347f05ad9b6ca415a0", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_MARK_LSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#gad1e67ee812f3fbfee906cbe124e84c81", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_MARK_MSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga36492e02058e871039f80f523062bb5c", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_MARK_WIDTH", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga9d6e4da437ba70a799c0773b18e1682e", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_MARK_SET_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga1f7b4fb9bb76574b8c6289efafca9af7", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_MARK_CLR_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga6c1bf8b5b5a14521d31c90f1f3ed6489", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_MARK_RESET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga2b96d16350eed62c6967a34e8e77bcd5", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_MARK_GET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga6660610b8282c30ffa153cd19c3e6838", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_MARK_SET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga8047763f7a2a03056c2112e307425786", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_RESET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#gaaaf490ccd0c430db8e8cc286e5c74811", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_OFST", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga7fb91fca3595556e1e89484fd3949edd", null ],
+    [ "ALT_NOC_MPU_F2SDR1_AXI64_QOS_PRI_t", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r1___a_x_i64___q_o_s___p_r_i.html#ga13fc6ce6b91efd4f08b69cd3b757f886", null ]
+];

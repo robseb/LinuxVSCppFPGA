@@ -1,0 +1,28 @@
+var group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t =
+[
+    [ "ALT_NAND_STAT_TFR_MOD_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#ga98ee197b80607adc1eaac5843ec7b1e0", null ],
+    [ "ALT_NAND_STAT_INTR_STAT0_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gad6469c1a255d2f315d01c0f1d1502908", null ],
+    [ "ALT_NAND_STAT_INTR_EN0_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gacbc1d0e4dcf8789fd90858aac333be8f", null ],
+    [ "ALT_NAND_STAT_PAGE_CNT0_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#ga08ee3bcc938c08a4d07d4b1c68a244d6", null ],
+    [ "ALT_NAND_STAT_ERR_PAGE_ADDR0_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#ga782a43fdee94fdb321711269521fcdae", null ],
+    [ "ALT_NAND_STAT_ERR_BLOCK_ADDR0_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#ga6c23cbf4a98dfc4406edfaf186e5fb9c", null ],
+    [ "ALT_NAND_STAT_INTR_STAT1_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gaedeba6909ed099ae65c7f138ead468f8", null ],
+    [ "ALT_NAND_STAT_INTR_EN1_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gae7e0edb6b90df9c9d661749c5da7ec03", null ],
+    [ "ALT_NAND_STAT_PAGE_CNT1_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gaa46195f6d615756617229f3ca7166cc9", null ],
+    [ "ALT_NAND_STAT_ERR_PAGE_ADDR1_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gab705d87d4bdc90881dbdc66bb22cdf2c", null ],
+    [ "ALT_NAND_STAT_ERR_BLOCK_ADDR1_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gaf162efcd25f092239d550e172afde0da", null ],
+    [ "ALT_NAND_STAT_INTR_STAT2_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gaafbc9b554672a125935ade8432c95a37", null ],
+    [ "ALT_NAND_STAT_INTR_EN2_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#ga845abaf0801d78ae7bacd1c11ad91e9a", null ],
+    [ "ALT_NAND_STAT_PAGE_CNT2_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#ga14d2d452b7882a949ab72498efc2d3b8", null ],
+    [ "ALT_NAND_STAT_ERR_PAGE_ADDR2_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gae7453fc4045cef10645c2ac5c3234209", null ],
+    [ "ALT_NAND_STAT_ERR_BLOCK_ADDR2_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gaa104cf0d1af82e3ad2f28149183cbb15", null ],
+    [ "ALT_NAND_STAT_INTR_STAT3_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#ga8fa347da1229bd2395c19b10cf65ec33", null ],
+    [ "ALT_NAND_STAT_INTR_EN3_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gab3b18ecfa35ca3f666b9c515ec2a0027", null ],
+    [ "ALT_NAND_STAT_PAGE_CNT3_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gab65ba6e7c8f45b525c101076ecb18a59", null ],
+    [ "ALT_NAND_STAT_ERR_PAGE_ADDR3_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gaa4d937a875fabead0403e58a19aff8eb", null ],
+    [ "ALT_NAND_STAT_ERR_BLOCK_ADDR3_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gacb7cd4ab786cf4e1f81c37c49f546d56", null ],
+    [ "ALT_NAND_STAT_OFST", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#ga883ce9f68c36a0e9da348800643a2a90", null ],
+    [ "ALT_NAND_STAT_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#ga464c388c34ed1e9353d32d662380a503", null ],
+    [ "ALT_NAND_STAT_LB_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gacd7cedda206431e0280d60a9d1e991c0", null ],
+    [ "ALT_NAND_STAT_UB_ADDR", "group___a_l_t___n_a_n_d___s_t_a_t___i_n_s_t.html#gaf21fca5053b7bac9000bef015a0711a7", null ]
+];

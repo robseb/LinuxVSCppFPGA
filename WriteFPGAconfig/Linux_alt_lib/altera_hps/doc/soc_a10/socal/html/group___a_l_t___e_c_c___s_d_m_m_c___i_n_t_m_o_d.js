@@ -1,0 +1,38 @@
+var group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d =
+[
+    [ "ALT_ECC_SDMMC_INTMOD_s", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#struct_a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d__s", [
+      [ "INTMODE", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#acea6b1cb58da8316c870b12fc653d41a", null ],
+      [ "__pad0__", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#a79bb533ed2756fd5aa17cb82f0e8c7cb", null ],
+      [ "INTONOVF", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#a65b8947a3501c3f015ed046de03cc6e6", null ],
+      [ "__pad1__", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ae34e9b89792c971159b14eeb52665886", null ],
+      [ "INTONCMP", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#a9295b307914cd6163f44fb5a05979dbf", null ],
+      [ "__pad2__", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#a2af3225cfa1717358240ed93cded438b", null ]
+    ] ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTMOD_LSB", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga3fa6067a5740c640d64cd1a66d06bdd3", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTMOD_MSB", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga0aa94d9f1c8fdf282ee1daeafd129223", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTMOD_WIDTH", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga88c0902f25d970dc1259aedd57d21c09", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTMOD_SET_MSK", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga14cb804ffb50bae5294514b57bb196af", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTMOD_CLR_MSK", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga1969ca891b01b2dc6c1db7c0cdf7f0a4", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTMOD_RESET", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga8e4a32041d184095bc64e370bc7b2552", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTMOD_GET", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#gaa2c867846a70d55b6af730986a331c07", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTMOD_SET", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#gae1010cfe1be682b80a8e23ed78e58586", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONOVF_LSB", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga4802287892096cc371951366c628877c", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONOVF_MSB", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#gaa0e0a447110037b6d1b5b2d15040bdbf", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONOVF_WIDTH", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#gaa94f3f470037a066541bdd150923ecf6", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONOVF_SET_MSK", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga19d200a5cad92bf007aea8d2cb1a15a1", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONOVF_CLR_MSK", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga7c6f45368afe936f3d8281b8978c15f6", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONOVF_RESET", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga2c0baedf1cd2d4a4b664e1aef493e7f1", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONOVF_GET", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga4a13ce908ff0cb7629794658502a586d", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONOVF_SET", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#gad9d6f5915a7553980ffcb977adc2afa0", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONCMP_LSB", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#gad0a363a9c97516250f201b2180158c15", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONCMP_MSB", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga94f2b118e19fa2788c1b5bf923c4f086", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONCMP_WIDTH", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga322cda18829044dde61310dd0ee4cf5e", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONCMP_SET_MSK", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga5cb7b9d767774c395c8422b6f12ea7c8", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONCMP_CLR_MSK", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#gaf324c05e8e81fe4ce05baf5705401c03", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONCMP_RESET", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga8ced1fd681d36e49053f27745fe618aa", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONCMP_GET", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga82d71e9104d9afdfddfbe2f802137a15", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_INTONCMP_SET", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga400cb1b7906792eea534dfa1da357648", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_RESET", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#gaebd01bbf123e37fbba329839ca58874d", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_OFST", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#ga1d9daab592d3e935f23bcb8270614bf7", null ],
+    [ "ALT_ECC_SDMMC_INTMOD_t", "group___a_l_t___e_c_c___s_d_m_m_c___i_n_t_m_o_d.html#gaeaeaf70290c845746f5f832b3d8877f2", null ]
+];

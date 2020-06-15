@@ -1,0 +1,18 @@
+var group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l =
+[
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_s", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#struct_a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l__s", [
+      [ "COUNTERS_3_PORTSEL", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#a2d887a631ee574df0006145f9bd3dfe4", null ],
+      [ "__pad0__", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#a4fe6e9e06c139364bbb215eda265596e", null ]
+    ] ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_CNTRS_3_PORTSEL_LSB", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#ga8fb30b3ed586bb2021b721ed97c7a468", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_CNTRS_3_PORTSEL_MSB", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#gae4469f7eda29d263444fdc01c30aa774", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_CNTRS_3_PORTSEL_WIDTH", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#ga200383e3ec814b3f655d5516c990fe12", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_CNTRS_3_PORTSEL_SET_MSK", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#ga743170da0480a56e572dc453ea6507b8", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_CNTRS_3_PORTSEL_CLR_MSK", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#ga49171b5d36e68da2c4919a9ad52b2357", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_CNTRS_3_PORTSEL_RESET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#ga86aa254fa12e9ef9e52ee57314494fdf", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_CNTRS_3_PORTSEL_GET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#ga2a218b4ee50914e1e7d210c823fe43de", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_CNTRS_3_PORTSEL_SET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#ga64e2f90dee487896f9e0477a094cc40a", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_RESET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#gae56c902400a10d79a75e550574a2fc5a", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_OFST", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#ga1f88902df3f1878e14c82e7524c757bb", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_3_PORTSEL_t", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__3___p_o_r_t_s_e_l.html#ga5ab75852ab65daf281baeb3cc2e6d38a", null ]
+];

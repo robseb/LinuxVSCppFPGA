@@ -1,0 +1,26 @@
+var group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t =
+[
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_EN_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga1bbc962084ee39b82a6fe6b645e0d293", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_EN_SET_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga50a92f9d98f3942cc8d587bda8119e84", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_EN_CLR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga12c4d03fe977c2dc6f55e9c46599e94c", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_MPUREG0ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#gacfe3bca5aa5369b262d8e989542781a7", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_MPUREG1ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga832ef6e6f840e55812dbea03cad6c635", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_MPUREG2ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#gab636b0d566bb8f55a19a3e08865004aa", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_MPUREG3ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga3ae20af898178d15833ecdfcec6f16b4", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR0REG0ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga0f705a56f4006baf116277c265ae96a2", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR0REG1ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga3f420f5b1839a8324954a61a28120d28", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR0REG2ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga31a7d9af3470321a5df16a7fa7cd39e1", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR0REG3ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga6d8e2ac0dbcff5f91e4da525e3b552b9", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG0ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#gaa3fafa472af90ede3d2a1f2715626b09", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG1ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga49dafda693910e725a282e52aeed67b4", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG2ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#gacba8bceb5e54eed5df75722ce670de48", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR1REG3ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga983f0353c335cb0eac68d8511c24c07b", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR2REG0ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#gaddc2ade33c0599e4eb22c6dad66f405f", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR2REG1ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga6eff0892a7e9aa37eae8c2d0dacb4d5a", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR2REG2ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#gac36ed0cc253fb094d38d563b49e51ea9", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_F2SDR2REG3ADDR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga1b7a48a58dae2406f4b500c988a88eb9", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_OFST", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga2d5de4422a71c2f08c3d35ae3a75ed79", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#gabc69a6f22be7d7a4eb7055a0691993e9", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_LB_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga2f2edff5d96be2f4921f0929660acb3e", null ],
+    [ "ALT_NOC_FW_DDR_MPU_F2SDR_DDR_SCR_UB_ADDR", "group___a_l_t___n_o_c___f_w___d_d_r___m_p_u___f2_s_d_r___d_d_r___s_c_r___i_n_s_t.html#ga325b8914cda28678021e3bf3b8b34251", null ]
+];

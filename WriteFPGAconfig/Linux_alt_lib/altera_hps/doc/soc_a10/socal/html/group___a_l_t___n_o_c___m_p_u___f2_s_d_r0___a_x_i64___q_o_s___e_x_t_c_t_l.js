@@ -1,0 +1,36 @@
+var group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l =
+[
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_s", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#struct_a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l__s", [
+      [ "SOCKETQOSEN", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ac4db3b1b134ca5c85a84cb23c6b109e6", null ],
+      [ "EXTTHREN", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ac49b60822a0c99f0ef8d849e449e9634", null ],
+      [ "INTCLKEN", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ad7a0d0f9485abc74b9de655e06b4b993", null ],
+      [ "__pad0__", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#a96935b0a847500f82408ff03c53331e2", null ]
+    ] ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_SOCKETQOSEN_LSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga7e0eb53deb2cd754e402faf981bed4cf", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_SOCKETQOSEN_MSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga7675141545e6fac5f15f37c24bcb966d", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_SOCKETQOSEN_WIDTH", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga3b94b71123e7d9b38caca0b76f55c4fa", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_SOCKETQOSEN_SET_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga215d056183188ba73c95b9cb165969e5", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_SOCKETQOSEN_CLR_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga39a5bdd432be9e898588f269e4f8897a", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_SOCKETQOSEN_RESET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga32666af82dab64b9bbcadb24eb2ed9ef", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_SOCKETQOSEN_GET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga52ae795e3041aa6bd72f070af125b856", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_SOCKETQOSEN_SET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga1fe9e82ec90aa97e7909652809cc07c0", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_EXTTHREN_LSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga24cd8fed8a448f7fffdc7e0c35d84035", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_EXTTHREN_MSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#gaa9a0d34633c4e3361650a3474fcd3923", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_EXTTHREN_WIDTH", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#gaa2ee4723dfa77b4874cb631e2de967e6", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_EXTTHREN_SET_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga84a46a010e9d345d32a8eacf93facdbf", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_EXTTHREN_CLR_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#gaf80fb4835983645b5e835388ff73aa9d", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_EXTTHREN_RESET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga3ca040876d6fc35645a4463a4a300445", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_EXTTHREN_GET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga858d24097aba72ed49e8b6f4a96e0aac", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_EXTTHREN_SET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#gab2d7767b4ad9df4f3a53008b243768fe", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_INTCLKEN_LSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#gac69f5a745375d3569d022ff543c8b677", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_INTCLKEN_MSB", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#gae626620ebadc0cb0046f8ad74ef35f71", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_INTCLKEN_WIDTH", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#gaca2d38809370d6424cacdc4f2ec62f89", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_INTCLKEN_SET_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga0a48f16c09842437fde96cc14229aeca", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_INTCLKEN_CLR_MSK", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga63b8ac073bb7badd2ec9a50ad62c5570", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_INTCLKEN_RESET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga33d9513f8ce6d8748c7f26e6fa70d022", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_INTCLKEN_GET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga9fa29d0abcdb76ec0f368b8a74a37c34", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_INTCLKEN_SET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga21fdd6897cd7a7298698c319aa71b8ee", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_RESET", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#gae861cf2c40411ad8ac04094adbc9a50c", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_OFST", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga40c98855422198fe38f5e957a979dc67", null ],
+    [ "ALT_NOC_MPU_F2SDR0_AXI64_QOS_EXTCTL_t", "group___a_l_t___n_o_c___m_p_u___f2_s_d_r0___a_x_i64___q_o_s___e_x_t_c_t_l.html#ga40820038a3f71e24ae79da0451f43b1c", null ]
+];

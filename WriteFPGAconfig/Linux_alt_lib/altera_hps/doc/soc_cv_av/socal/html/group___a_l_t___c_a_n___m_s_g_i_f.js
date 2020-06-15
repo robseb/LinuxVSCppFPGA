@@ -1,0 +1,47 @@
+var group___a_l_t___c_a_n___m_s_g_i_f =
+[
+    [ "Register : IF1 Command Register - IF1CMR", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_c_m_r.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_c_m_r" ],
+    [ "Register : IF1 Mask Register - IF1MSK", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_m_s_k.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_m_s_k" ],
+    [ "Register : IF1 Arbitration Register - IF1ARB", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_a_r_b.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_a_r_b" ],
+    [ "Register : IF1 Message Control Register - IF1MCTR", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_m_c_t_r.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_m_c_t_r" ],
+    [ "Register : IF1 Data A Register - IF1DA", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_d_a.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_d_a" ],
+    [ "Register : IF1 Data B Register - IF1DB", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_d_b.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f1_d_b" ],
+    [ "Register : IF2 Command Register - IF2CMR", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_c_m_r.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_c_m_r" ],
+    [ "Register : IF2 Mask Register - IF2MSK", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_m_s_k.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_m_s_k" ],
+    [ "Register : IF2 Arbitration Register - IF2ARB", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_a_r_b.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_a_r_b" ],
+    [ "Register : IF2 Message Control Register - IF2MCTR", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_m_c_t_r.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_m_c_t_r" ],
+    [ "Register : IF2 Data A Register - IF2DA", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_d_a.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_d_a" ],
+    [ "Register : IF2 Data B Register - IF2DB", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_d_b.html", "group___a_l_t___c_a_n___m_s_g_i_f___i_f2_d_b" ],
+    [ "ALT_CAN_MSGIF_s", "group___a_l_t___c_a_n___m_s_g_i_f.html#struct_a_l_t___c_a_n___m_s_g_i_f__s", [
+      [ "IF1CMR", "group___a_l_t___c_a_n___m_s_g_i_f.html#abd99a5b67a741999311051b2d4cb8b20", null ],
+      [ "IF1MSK", "group___a_l_t___c_a_n___m_s_g_i_f.html#ab8adfb253e301e8c869181622d6e1e2f", null ],
+      [ "IF1ARB", "group___a_l_t___c_a_n___m_s_g_i_f.html#a9ba444f2049eb49688e1f9ad1f0be863", null ],
+      [ "IF1MCTR", "group___a_l_t___c_a_n___m_s_g_i_f.html#a9bb0ee55bcd9a8f801c276e2b152d2b6", null ],
+      [ "IF1DA", "group___a_l_t___c_a_n___m_s_g_i_f.html#a846ca06d5e462a27bc751f16dcb95ec5", null ],
+      [ "IF1DB", "group___a_l_t___c_a_n___m_s_g_i_f.html#a86c044207eccf9d2550194232ba0d2a8", null ],
+      [ "_pad_0x18_0x1f", "group___a_l_t___c_a_n___m_s_g_i_f.html#ab0f8e08e1bb1397d069ff9e50705bebc", null ],
+      [ "IF2CMR", "group___a_l_t___c_a_n___m_s_g_i_f.html#a95e5a87077188a59917665f745ccc08e", null ],
+      [ "IF2MSK", "group___a_l_t___c_a_n___m_s_g_i_f.html#a36baad6bb6282112659060ffe4349790", null ],
+      [ "IF2ARB", "group___a_l_t___c_a_n___m_s_g_i_f.html#a214b8b008422e2abbc2b93b04ac6b36a", null ],
+      [ "IF2MCTR", "group___a_l_t___c_a_n___m_s_g_i_f.html#af0b0f90c1d8856f99fa6ab5856bf3422", null ],
+      [ "IF2DA", "group___a_l_t___c_a_n___m_s_g_i_f.html#a92144a380325884dabd302b85f3dde4a", null ],
+      [ "IF2DB", "group___a_l_t___c_a_n___m_s_g_i_f.html#ad62ab1763d550cc39f7f5b9ecbb92040", null ]
+    ] ],
+    [ "ALT_CAN_MSGIF_raw_s", "group___a_l_t___c_a_n___m_s_g_i_f.html#struct_a_l_t___c_a_n___m_s_g_i_f__raw__s", [
+      [ "IF1CMR", "group___a_l_t___c_a_n___m_s_g_i_f.html#a38eedf017733ffd9f11874b3e26c6c9e", null ],
+      [ "IF1MSK", "group___a_l_t___c_a_n___m_s_g_i_f.html#a6682c826496a5755f7877b417490dc01", null ],
+      [ "IF1ARB", "group___a_l_t___c_a_n___m_s_g_i_f.html#a229acde422661e816993507becd36a3f", null ],
+      [ "IF1MCTR", "group___a_l_t___c_a_n___m_s_g_i_f.html#a97402b9f3104b280dbf6aa0012223bd1", null ],
+      [ "IF1DA", "group___a_l_t___c_a_n___m_s_g_i_f.html#ac1bc2b1352263d4b72a3ff8366b6adae", null ],
+      [ "IF1DB", "group___a_l_t___c_a_n___m_s_g_i_f.html#a8b9e66e1abd48cb6938583c9642b0602", null ],
+      [ "_pad_0x18_0x1f", "group___a_l_t___c_a_n___m_s_g_i_f.html#aaa09a42ed52a41a0b85601cabf16df5e", null ],
+      [ "IF2CMR", "group___a_l_t___c_a_n___m_s_g_i_f.html#a02dd3b39bb80bbc74eff1b08a9b834c2", null ],
+      [ "IF2MSK", "group___a_l_t___c_a_n___m_s_g_i_f.html#a2bd7a33d3b634744e1fb01b91ea55fc6", null ],
+      [ "IF2ARB", "group___a_l_t___c_a_n___m_s_g_i_f.html#a2a756f197505223e91164f658f3059f0", null ],
+      [ "IF2MCTR", "group___a_l_t___c_a_n___m_s_g_i_f.html#a925e49d4c1ca4187ab98167c611db19b", null ],
+      [ "IF2DA", "group___a_l_t___c_a_n___m_s_g_i_f.html#a061ecb1ff72d86791a8675d9c7d038e8", null ],
+      [ "IF2DB", "group___a_l_t___c_a_n___m_s_g_i_f.html#a7f33327ee4853cfbf98e14391af1a76f", null ]
+    ] ],
+    [ "ALT_CAN_MSGIF_t", "group___a_l_t___c_a_n___m_s_g_i_f.html#ga4b657eed689c17960d96ccc6f8491bc8", null ],
+    [ "ALT_CAN_MSGIF_raw_t", "group___a_l_t___c_a_n___m_s_g_i_f.html#gaa64431953bc3d9a94220cb861cf6dd8e", null ]
+];

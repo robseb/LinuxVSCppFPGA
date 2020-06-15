@@ -1,0 +1,38 @@
+var group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g =
+[
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_s", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#struct_a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g__s", [
+      [ "mpu_m0", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#a242f849e09c1e416a2378053f4dcad2f", null ],
+      [ "__pad0__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#a774fb529628d952368d735b87c820608", null ],
+      [ "dma", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#aa79bb5d3e617da3a344a76dc31e2b162", null ],
+      [ "__pad1__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#a38a04b660a3f987e4a258c927c98817d", null ],
+      [ "ahb_ap", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#a12bc5864efc0efda410d0529a69a41b1", null ],
+      [ "__pad2__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#a8cbfe73cb8cf79adb1da554081c424b6", null ]
+    ] ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_MPU_M0_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga0df4e79b5577323678aff86be3dc42e1", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_MPU_M0_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#gac6654b498c1dd542c8a44d475c2f19ba", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_MPU_M0_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga734fad538c8486483bc426a3b393cde7", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_MPU_M0_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#gac54d599c1a2473ffb1b6fa3a3aa6d6d8", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_MPU_M0_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga72b614198726023edaa75eccd3836358", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_MPU_M0_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga6458fef8e81f7ce7429003bffc4aa558", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_MPU_M0_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga8e57c00b8dd2415fe64e4984bf45ceb9", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_MPU_M0_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga460bdf37abfefabdc9ba95dc702c14b7", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_DMA_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga2aa13a52b4dd39c8900dd10ef87784bf", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_DMA_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga286f06a4e0a00416c2d21fb7a255c051", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_DMA_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga32857efd41c0f2404343f642e8da8f5f", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_DMA_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga421c74842ee388ea5b24d117c0a16e04", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_DMA_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga7766e34eec2e0313aa7bd8a63539098a", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_DMA_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga63489149d48bf00e05f2b730bc501809", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_DMA_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#gab54be49c1d80ec6dced0f4c47e292299", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_DMA_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#gaa94f5c6da8a47b66c35efd80f5dbd080", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_AHB_AP_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga830811a348b7ab64e4d6eb067d35fb49", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_AHB_AP_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga5d3d75bd142852daa0d9d934a02de5fa", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_AHB_AP_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga317ded45d3caffabc3d843b7993b072f", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_AHB_AP_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#gad792360a70666c356db8f6e0ba1f1127", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_AHB_AP_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#gad49b8b42fd8de00f62ccaaf229cf45ae", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_AHB_AP_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga7506c2dfb47a1fe54497f7e9f2e54abd", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_AHB_AP_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#gaa932ccb1437affd5d8ec7d6de724389e", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_AHB_AP_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga1c450f7c771aa9dcf7cbad6a06b58976", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga2f4ce585a2c468f27a76e9fe4fc225ce", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_OFST", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga598ed4108a1f64b1430f2e0abd0b32d2", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_STREAMING_t", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___s_t_r_e_a_m_i_n_g.html#ga402a70cd1d9a8a7f333a5bfedd64b3ac", null ]
+];

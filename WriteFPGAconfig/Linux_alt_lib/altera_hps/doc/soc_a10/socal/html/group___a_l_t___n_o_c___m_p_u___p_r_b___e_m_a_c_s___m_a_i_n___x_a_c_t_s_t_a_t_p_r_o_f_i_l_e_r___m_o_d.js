@@ -1,0 +1,18 @@
+var group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d =
+[
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_s", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#struct_a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d__s", [
+      [ "MODE", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#ace170e6633a8de8a454b472c7352a991", null ],
+      [ "__pad0__", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#a33d0eb5bab0d52c77ab45f1718013d46", null ]
+    ] ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_MOD_LSB", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#ga5d2b2271c60c2b4c90e2b3098986711f", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_MOD_MSB", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#ga1a4fe4ad5bfeaa7b028b5a361ea2b071", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_MOD_WIDTH", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#gae90863b44f9453aa16c94d62e982905a", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_MOD_SET_MSK", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#gae029516d3c1a767d6028b6493d75dd73", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_MOD_CLR_MSK", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#ga47d5142774ff82ca1bba6e02c7deec12", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_MOD_RESET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#ga67b6dd0e9a4af576352195228d8ac3aa", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_MOD_GET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#ga1aa6e75f5b0aaba7631e703b11e191b3", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_MOD_SET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#ga5f28848b95e5ac2990a3f487cef9d896", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_RESET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#ga522f012443570e8802ee49585f80f39a", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_OFST", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#ga9b5220d4205210f127765cc9103ef573", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_XACTSTATPROFILER_MOD_t", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___x_a_c_t_s_t_a_t_p_r_o_f_i_l_e_r___m_o_d.html#gade30d27c8aa0d1fae2d02c1cab0d7394", null ]
+];

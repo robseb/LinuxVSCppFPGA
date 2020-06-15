@@ -1,0 +1,37 @@
+var group___a_l_t___i2_c___e_n___s_t_a_t =
+[
+    [ "ALT_I2C_EN_STAT_s", "group___a_l_t___i2_c___e_n___s_t_a_t.html#struct_a_l_t___i2_c___e_n___s_t_a_t__s", [
+      [ "ic_en", "group___a_l_t___i2_c___e_n___s_t_a_t.html#abd814458d5cbddd47c21f000226c9423", null ],
+      [ "slv_disabled_while_busy", "group___a_l_t___i2_c___e_n___s_t_a_t.html#a6738462b8a08134a4f22e6d93803ebe6", null ],
+      [ "slv_rx_data_lost", "group___a_l_t___i2_c___e_n___s_t_a_t.html#a4e2a5c6f2b5d635c80b2b7e3a466d9c2", null ],
+      [ "__pad0__", "group___a_l_t___i2_c___e_n___s_t_a_t.html#a1eda59bcaa93f87757f48b05a306ca70", null ]
+    ] ],
+    [ "ALT_I2C_EN_STAT_IC_EN_LSB", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga88213614cc53a97e0cd6d19bd6e8b5e5", null ],
+    [ "ALT_I2C_EN_STAT_IC_EN_MSB", "group___a_l_t___i2_c___e_n___s_t_a_t.html#gab9123f3a723d6e0ef31fbc47cb963ef4", null ],
+    [ "ALT_I2C_EN_STAT_IC_EN_WIDTH", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga72044433c113b19d05b3f6fb5633c0ad", null ],
+    [ "ALT_I2C_EN_STAT_IC_EN_SET_MSK", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga43b1c42abc6190f6a08efc9338e2d3b5", null ],
+    [ "ALT_I2C_EN_STAT_IC_EN_CLR_MSK", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga4343082986ec5b07972eca6106f4ed05", null ],
+    [ "ALT_I2C_EN_STAT_IC_EN_RESET", "group___a_l_t___i2_c___e_n___s_t_a_t.html#gaa79e08e9c5198941ec888b17e67fa6ea", null ],
+    [ "ALT_I2C_EN_STAT_IC_EN_GET", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga4a7858041cf585c2f62dfbc69407a088", null ],
+    [ "ALT_I2C_EN_STAT_IC_EN_SET", "group___a_l_t___i2_c___e_n___s_t_a_t.html#gaf27f4089e5b098eabf3ac649cce04917", null ],
+    [ "ALT_I2C_EN_STAT_SLV_DISD_WHILE_BUSY_LSB", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga08c67a2658ba53b30daabe4eb37f2d86", null ],
+    [ "ALT_I2C_EN_STAT_SLV_DISD_WHILE_BUSY_MSB", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga6b359de896ce71733a6a13a485003718", null ],
+    [ "ALT_I2C_EN_STAT_SLV_DISD_WHILE_BUSY_WIDTH", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga15d6db198fe4c8e945be7a6794c471ba", null ],
+    [ "ALT_I2C_EN_STAT_SLV_DISD_WHILE_BUSY_SET_MSK", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga8253fdce7f299c1c58b535df8c99309a", null ],
+    [ "ALT_I2C_EN_STAT_SLV_DISD_WHILE_BUSY_CLR_MSK", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga69b2cf2c5052729b01eebdefb96028c6", null ],
+    [ "ALT_I2C_EN_STAT_SLV_DISD_WHILE_BUSY_RESET", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga2fa3b219a0cbedda9e84bcd360cd109c", null ],
+    [ "ALT_I2C_EN_STAT_SLV_DISD_WHILE_BUSY_GET", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga50cb002a40b6d77c5333d8f702c25403", null ],
+    [ "ALT_I2C_EN_STAT_SLV_DISD_WHILE_BUSY_SET", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga03b274ce8f1bbe96f596a3baceb32983", null ],
+    [ "ALT_I2C_EN_STAT_SLV_RX_DATA_LOST_LSB", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga57749d7889b3a4a1d7d1a85dfec51af0", null ],
+    [ "ALT_I2C_EN_STAT_SLV_RX_DATA_LOST_MSB", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga222270ce49421861ee755ad026d08498", null ],
+    [ "ALT_I2C_EN_STAT_SLV_RX_DATA_LOST_WIDTH", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga7ab5b8f3a7975867843e8c8892c491d6", null ],
+    [ "ALT_I2C_EN_STAT_SLV_RX_DATA_LOST_SET_MSK", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga507c7be409cf9fc33ee5d3c19921cc8c", null ],
+    [ "ALT_I2C_EN_STAT_SLV_RX_DATA_LOST_CLR_MSK", "group___a_l_t___i2_c___e_n___s_t_a_t.html#gabbeedb390b617bb7a69ec225c371cbb3", null ],
+    [ "ALT_I2C_EN_STAT_SLV_RX_DATA_LOST_RESET", "group___a_l_t___i2_c___e_n___s_t_a_t.html#gaf3aa62891e932324c195221e05c3de14", null ],
+    [ "ALT_I2C_EN_STAT_SLV_RX_DATA_LOST_GET", "group___a_l_t___i2_c___e_n___s_t_a_t.html#gad5c3f128015c65e25d2270b428782d7f", null ],
+    [ "ALT_I2C_EN_STAT_SLV_RX_DATA_LOST_SET", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga8edd3b58915441d487d9cd161e82f489", null ],
+    [ "ALT_I2C_EN_STAT_RESET", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga393ac2920a333fa3a7dc1755cfdf8a20", null ],
+    [ "ALT_I2C_EN_STAT_OFST", "group___a_l_t___i2_c___e_n___s_t_a_t.html#gaaffd4217083f0ea96ea2730788e36c90", null ],
+    [ "ALT_I2C_EN_STAT_ADDR", "group___a_l_t___i2_c___e_n___s_t_a_t.html#ga72eb33864f80c35a05bddd7512e86ae6", null ],
+    [ "ALT_I2C_EN_STAT_t", "group___a_l_t___i2_c___e_n___s_t_a_t.html#gaac4051add71b50800c3cb5b31628b7e2", null ]
+];

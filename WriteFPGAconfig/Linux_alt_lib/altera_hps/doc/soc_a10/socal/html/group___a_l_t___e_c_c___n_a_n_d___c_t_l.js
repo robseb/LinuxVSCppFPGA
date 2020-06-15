@@ -1,0 +1,38 @@
+var group___a_l_t___e_c_c___n_a_n_d___c_t_l =
+[
+    [ "ALT_ECC_NAND_CTL_s", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#struct_a_l_t___e_c_c___n_a_n_d___c_t_l__s", [
+      [ "ECC_EN", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#a1e2e331178d1773159a49b06144c91f3", null ],
+      [ "__pad0__", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#a7bccc404dda7430a6f7dab6bbcdc03cf", null ],
+      [ "CNT_RSTA", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#a628311a3942c52f9762b0af3d364af38", null ],
+      [ "__pad1__", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#a4b252edaf6598af43ff61841e9f3ff4b", null ],
+      [ "INITA", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#aca6b5357cb53ba6453aae1aee2bac7cf", null ],
+      [ "__pad2__", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ab3a68a60ddacca4895d13f319e7e6098", null ]
+    ] ],
+    [ "ALT_ECC_NAND_CTL_ECC_EN_LSB", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga0bb4d0517d4ebbb980a8707462aac500", null ],
+    [ "ALT_ECC_NAND_CTL_ECC_EN_MSB", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga8b8bce66f309c0d43336c1437e1eddcf", null ],
+    [ "ALT_ECC_NAND_CTL_ECC_EN_WIDTH", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga910e89e97a42cfdec4f5dccfb3d6da06", null ],
+    [ "ALT_ECC_NAND_CTL_ECC_EN_SET_MSK", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#gae5999b3e8c398ef91d9010f87ccb1ca3", null ],
+    [ "ALT_ECC_NAND_CTL_ECC_EN_CLR_MSK", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga1d47305431cfb995c30a71570ab807eb", null ],
+    [ "ALT_ECC_NAND_CTL_ECC_EN_RESET", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#gae3beea82d1b730bc4c0dac812f2ca2f6", null ],
+    [ "ALT_ECC_NAND_CTL_ECC_EN_GET", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga628e4c229b9daad0c76fb29c0e789683", null ],
+    [ "ALT_ECC_NAND_CTL_ECC_EN_SET", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga5cafa0239d4e79a2827d362cdd7e1689", null ],
+    [ "ALT_ECC_NAND_CTL_CNT_RSTA_LSB", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga45a0a1d1b34a2a807dcb43b6216e3678", null ],
+    [ "ALT_ECC_NAND_CTL_CNT_RSTA_MSB", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga501c46106cbcbf9602ca7fddd5b42e48", null ],
+    [ "ALT_ECC_NAND_CTL_CNT_RSTA_WIDTH", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga924e0f39e277c45d52b789adde99b7e6", null ],
+    [ "ALT_ECC_NAND_CTL_CNT_RSTA_SET_MSK", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga79537fe9f53c894b0a1ff30d5cbfa9c9", null ],
+    [ "ALT_ECC_NAND_CTL_CNT_RSTA_CLR_MSK", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga680d47c053676ee7e64406937b5c71e8", null ],
+    [ "ALT_ECC_NAND_CTL_CNT_RSTA_RESET", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga5ca46bd43163bb7b4f0d21adbcba564b", null ],
+    [ "ALT_ECC_NAND_CTL_CNT_RSTA_GET", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga56efd5d24bdad35e2d80a7d60039e484", null ],
+    [ "ALT_ECC_NAND_CTL_CNT_RSTA_SET", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#gac890c3b013d9bad9716fad65d0d57cd8", null ],
+    [ "ALT_ECC_NAND_CTL_INITA_LSB", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga0cdbb442216f659880b1c40022a54e00", null ],
+    [ "ALT_ECC_NAND_CTL_INITA_MSB", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga141e488dd033c3c8eec152c0df2a12e3", null ],
+    [ "ALT_ECC_NAND_CTL_INITA_WIDTH", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga3db4f41c4dce71886566e97d84191357", null ],
+    [ "ALT_ECC_NAND_CTL_INITA_SET_MSK", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga277a0b9e9cd5f012aca16fe63d4616ae", null ],
+    [ "ALT_ECC_NAND_CTL_INITA_CLR_MSK", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga954a90afce4498289edb18049571a67a", null ],
+    [ "ALT_ECC_NAND_CTL_INITA_RESET", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#gaec9cd58d6134cff8dfd1ec6df9e56f96", null ],
+    [ "ALT_ECC_NAND_CTL_INITA_GET", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#gac73882aca7069bb4d21a1b368ef6fa6d", null ],
+    [ "ALT_ECC_NAND_CTL_INITA_SET", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga9089e31d1826bbbcadc9388ec783ba63", null ],
+    [ "ALT_ECC_NAND_CTL_RESET", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#gad8502b9612b124062942505c0f543d83", null ],
+    [ "ALT_ECC_NAND_CTL_OFST", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#gaa4af57d4865ab5d5bef4939a0a18c899", null ],
+    [ "ALT_ECC_NAND_CTL_t", "group___a_l_t___e_c_c___n_a_n_d___c_t_l.html#ga9d6dbd03f95ee9c2b0db026e7d28c782", null ]
+];

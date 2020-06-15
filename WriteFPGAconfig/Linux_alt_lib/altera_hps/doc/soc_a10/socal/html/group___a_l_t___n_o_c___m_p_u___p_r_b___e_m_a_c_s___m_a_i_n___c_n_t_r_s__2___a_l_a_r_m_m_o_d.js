@@ -1,0 +1,18 @@
+var group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d =
+[
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_s", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#struct_a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d__s", [
+      [ "COUNTERS_2_ALARMMODE", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#abbc934b91d5fa19061a6f018d9d6410c", null ],
+      [ "__pad0__", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#a9c43c06cd7ce413eac50ef2b32b1be44", null ]
+    ] ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_CNTRS_2_ALARMMOD_LSB", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#ga5063effa1a39987bcf10b8bfb8db2818", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_CNTRS_2_ALARMMOD_MSB", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#gaed99f1e0dc60ce2488e71d780ececd88", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_CNTRS_2_ALARMMOD_WIDTH", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#ga945e0ab37ef9324924a92b8102858080", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_CNTRS_2_ALARMMOD_SET_MSK", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#gad8de53904138c1e6eaa0582794005b34", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_CNTRS_2_ALARMMOD_CLR_MSK", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#ga9c921e31286329e4731efd2fba861a5f", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_CNTRS_2_ALARMMOD_RESET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#ga284ed853c318d2fbc49d567a38a63d4b", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_CNTRS_2_ALARMMOD_GET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#ga9892214658bbdc3bf3a9ba0bee6e5509", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_CNTRS_2_ALARMMOD_SET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#gae7abb2e43e8c187df93f1aa233082c9f", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_RESET", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#ga6ce6032aa6041f9c0cad62009222f0da", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_OFST", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#ga303534f443cc3425751bf14dd25e2e29", null ],
+    [ "ALT_NOC_MPU_PRB_EMACS_MAIN_CNTRS_2_ALARMMOD_t", "group___a_l_t___n_o_c___m_p_u___p_r_b___e_m_a_c_s___m_a_i_n___c_n_t_r_s__2___a_l_a_r_m_m_o_d.html#gac4bc675aba471fd14bbeb8ef6dadae83", null ]
+];

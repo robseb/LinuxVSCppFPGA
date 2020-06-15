@@ -1,0 +1,38 @@
+var group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c =
+[
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_s", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#struct_a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c__s", [
+      [ "mpu_m0", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#a2f5c83459c73ecbace2bc83cad7092ca", null ],
+      [ "__pad0__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ad8418d2498f318f4cb08c9030147a278", null ],
+      [ "fpga2soc", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#a1356ed0bb41565e1dab1de06bd9c35f6", null ],
+      [ "__pad1__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#a224c1092bc40829f423571457b5f9d09", null ],
+      [ "ahb_ap", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#a8be942decae09e3400d97713ecdc4508", null ],
+      [ "__pad2__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#a618137e629564788d2b2e452b4a6bef2", null ]
+    ] ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_MPU_M0_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga668c098aab036927df50c6743cd5a5d8", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_MPU_M0_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#gaf3d1c3aab81c69876515d4c596ec837e", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_MPU_M0_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#gaa2ae0530fd57790e971ca3a1c92f8802", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_MPU_M0_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga99bbf969fd6c3e72441e731bf20ac145", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_MPU_M0_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga3b49ea93f129fcdf72f8f03d9623da02", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_MPU_M0_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga40c2f1712f212ba57d41c094f8ad7c61", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_MPU_M0_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#gafc518164bd38ab81a45b0f3915805596", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_MPU_M0_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#gae0a75e9465f3632bfc605ba37ae84b39", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_F2H_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga67d32cfe12a1c5df7ef6daacabe15864", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_F2H_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga6f854057da03214aff5a729e6d6bfb70", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_F2H_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga0c1f52b98690e253ee41aa1a2c5f01fd", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_F2H_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga7277f57b8e13104ab740ffae7c7e94d3", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_F2H_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga55506a536ac6f32386fe74b1b577bb03", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_F2H_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga7ee07ba881e97cc8dbd256d57525a45b", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_F2H_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga55651675f3873865c95622e82bcf6042", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_F2H_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga7463e977c436c7e0071281fe6d0c2e94", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_AHB_AP_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga0b5dde5a089c6110b17820eefc49f95a", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_AHB_AP_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga4ff8748478b1708e7071f8c188e0af89", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_AHB_AP_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#gabc1647ede1b7e3f77fab4a64096b7611", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_AHB_AP_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga540b965ebb5f8d070e517245ce253d8b", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_AHB_AP_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga1bb2c95b1e4136c3c8e2f9789d60dc63", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_AHB_AP_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#gad6a7319bdf74760c01610720d64383e2", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_AHB_AP_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga267d4fc1ddd9442d411944c3912bd1f5", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_AHB_AP_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga94fb5e7842ebeff04da9e5bd76a09bba", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#gaee17f24d1641e5a4c67305dd24971edf", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_OFST", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#gac84b152e55943ae0b6841c223085b005", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_NAND_ECC_t", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___n_a_n_d___e_c_c.html#ga353a65399fecbee81f870b90b3d6406f", null ]
+];

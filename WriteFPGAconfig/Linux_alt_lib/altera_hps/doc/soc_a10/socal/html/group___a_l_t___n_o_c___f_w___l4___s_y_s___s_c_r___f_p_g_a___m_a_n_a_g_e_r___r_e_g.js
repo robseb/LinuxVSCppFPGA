@@ -1,0 +1,38 @@
+var group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g =
+[
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_s", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#struct_a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g__s", [
+      [ "mpu_m0", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#a99b3a34da21e7e612de54eef1ce901a7", null ],
+      [ "__pad0__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#afbc7498ed0c3a2fd2d25fb0c807c51ec", null ],
+      [ "dma", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#aff7974db6bf27da8fc870879dca4b345", null ],
+      [ "__pad1__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#a8c4c4caac6227220d8902e4a3315440c", null ],
+      [ "ahb_ap", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#a7d48957fb7a4dab8bc846d498b0bfe80", null ],
+      [ "__pad2__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ad36b9530e515ec0f2916bc6c8599aa82", null ]
+    ] ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_MPU_M0_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga9d9e9dc50e059f4b6a9ac111e1c4a9c1", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_MPU_M0_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga89c8eaa39b07281720b2a60da1d421c5", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_MPU_M0_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga4b61990eb6bd4f242da400c3c3f24d7b", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_MPU_M0_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga1a13b48f3e68520b6bef7847d944bdde", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_MPU_M0_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#gad85db11c799e4e6414ee86d873825456", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_MPU_M0_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#gab1e6d91493424b86d2b9f63c4aa80222", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_MPU_M0_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#gaf76cb9d292c7556e07e7c3f5aea91360", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_MPU_M0_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga1bd0079fe19f9f2089f787b38776ecd4", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_DMA_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga0eca1d42a4e171dea045493ca85bbe2e", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_DMA_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga82f2b43e95a2224e5fbc7715ba8ef287", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_DMA_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#gad699e36da94ded5a7d2cdb50d4700074", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_DMA_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#gabcc0cc667e5e8f2c3098d662affabc97", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_DMA_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga5908fc78d08635c5afb589f868349656", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_DMA_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga0d61a24a5ab4037f781bf05e09763e70", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_DMA_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#gad3f932b521441288238b53815f5ac384", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_DMA_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#gadd66bdbfe69a9de4abba829080a61bd6", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_AHB_AP_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga2b980ae7e05dd19f318ba87275419a72", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_AHB_AP_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga4ec464367020d9055b7bb157b25ab38f", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_AHB_AP_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#gaaff3faea10751ff318caf045a6b8c1e7", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_AHB_AP_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga5787fa89f3aeb46d5c60785bb10a8366", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_AHB_AP_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga9fec6c147d99de17a78c8894ca7ad1ff", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_AHB_AP_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga2108d6715ea771e3281efcb26bb6b264", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_AHB_AP_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga07d2071e3705c955ca06277cd7691f99", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_AHB_AP_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga1081cf389105f9bb832d5899c567da19", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga9a0d6be3f2425858a15a8764cbc2c2e1", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_OFST", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#gae5b7717601ee4ac7318ff58d470cbfcc", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_FPGA_MANAGER_REG_t", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___f_p_g_a___m_a_n_a_g_e_r___r_e_g.html#ga7daa45766796eedc590d7cb3743427c4", null ]
+];

@@ -1,0 +1,38 @@
+var group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h =
+[
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_s", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#struct_a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h__s", [
+      [ "addrhi", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#a92a59ca5202d14341a6d85016a4d79b4", null ],
+      [ "reserved_30_16", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#a37fb4889d69f2936abc4e21b1e1316c5", null ],
+      [ "ae", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ac3ec7e09d8507e8ed30ee53a6f9fac1d", null ]
+    ] ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_ADDRHI_LSB", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gab1b4635cbfea993fe9e9d91ecc7d73d0", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_ADDRHI_MSB", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gaac0acc0f8d6021c98b2c9ecf9c7de7cc", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_ADDRHI_WIDTH", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga1ab5cf5ed717a525e36e33cb00fa49b8", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_ADDRHI_SET_MSK", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga47e2883b3915c25534cddc5b10f3d367", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_ADDRHI_CLR_MSK", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gab9ea0fa3735739b6add19f502125372a", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_ADDRHI_RESET", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga7f7404bbd172f912f949c373a8175bb3", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_ADDRHI_GET", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga54d15700295f9375b72d2740414d374d", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_ADDRHI_SET", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga42a02cce0fea1547c5b6eb1daf472d24", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_RSVD_30_16_LSB", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga9f69018afed31884c74b159811b629d4", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_RSVD_30_16_MSB", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gacde029b72cd2768e0e50e966af541d2d", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_RSVD_30_16_WIDTH", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga6f134b53accbdfbbb3dccd7e1e07f3bc", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_RSVD_30_16_SET_MSK", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga515022e9f00e828b9f52288d7cef1547", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_RSVD_30_16_CLR_MSK", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gab14710b3ed12fc8b37a503795321970e", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_RSVD_30_16_RESET", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga3e07e18400eaccbc512bba7bb86f2b3c", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_RSVD_30_16_GET", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gaf42bb0bc8b3f191800ba733cdb83f0d3", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_RSVD_30_16_SET", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga36446f92a66600c9888c1beea7ad53af", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_AE_E_DISD", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga33f6007f03dc9ecec0c49d4091aabe69", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_AE_E_END", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gad7e3e90c278f4a788edf20e25c63ceb1", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_AE_LSB", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga36fecd7ee1093675c663efa1dbc1506c", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_AE_MSB", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gaa3816c7442a1a544d362705e00840001", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_AE_WIDTH", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga71faa395f061a4f6659cab87cb7e2a5f", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_AE_SET_MSK", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga2c689fb41ace4187ed8af735814f21b8", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_AE_CLR_MSK", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga69ea12b70ac8d1caa7636172cc3b39aa", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_AE_RESET", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga3550e12b8e990632035e56b0fa9f20fc", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_AE_GET", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gac3eed6c65dc7e29035f7c47dacc875a9", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_AE_SET", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gab3f2c4fe19a4c06f98b344f4800490b2", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_RESET", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga56d0ba416ace27e1b22693f997f4a522", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_OFST", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#gaecabf9b79a887b8291abaa462ee13b1c", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_ADDR", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga0cc1ae463661dfd8401f225e76be3266", null ],
+    [ "ALT_EMAC_GMAC_MAC_ADDR79_HIGH_t", "group___a_l_t___e_m_a_c___g_m_a_c___m_a_c___a_d_d_r79___h_i_g_h.html#ga6366a61ac40650c8c03a62e9924119d6", null ]
+];

@@ -1,0 +1,38 @@
+var group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c =
+[
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_s", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#struct_a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c__s", [
+      [ "mpu_m0", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ab52d308d89def1464fdf7108fbcec151", null ],
+      [ "__pad0__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#a82b4117f109611631a528f5e36b5d88d", null ],
+      [ "fpga2soc", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ac42f38c89e970e0441e817687068c0ac", null ],
+      [ "__pad1__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#a8445f76fc73cef94717f377a44693728", null ],
+      [ "ahb_ap", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#a87d2e4ac958f13df88695d0e63c4e26b", null ],
+      [ "__pad2__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#a8035d5ccd508a943a1f9856ad4b1a312", null ]
+    ] ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_MPU_M0_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#gaf42b37c8054f4a91b937b8afce5964cd", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_MPU_M0_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga816c891506fd6bfa19261404672e27e7", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_MPU_M0_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga33f72c6f8491157d0829a2697fc90576", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_MPU_M0_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga7192174139544aeab62456579d50d277", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_MPU_M0_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#gaba25b8b508911ba6edcb2c570a0ef903", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_MPU_M0_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga827ed6b1ab7de017c91a97f08608d3ac", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_MPU_M0_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#gaccb819052a846d0db958b72151f34f4c", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_MPU_M0_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga009abebe5765a26e42036d93b1c85261", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_F2H_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga8e9e37e97911bda0871cfb51e4ce6e8a", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_F2H_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#gade2d57c24fa5f14d22b5df2fbcefa611", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_F2H_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga55c65e79afa305b65fc9a0784f882e99", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_F2H_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga8d6cf92589c6e0fd97ae49dfde6faae5", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_F2H_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#gacb06a19f786cdffb1dd39500a910a31e", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_F2H_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga4234328411f6619355e86be06348dcbf", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_F2H_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga4076f0ec770afe1febb1db99d8cce808", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_F2H_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga6a6abbc5128ab9afc78c51c935e1a955", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_AHB_AP_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga786369705820b46648f5ceac6b377729", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_AHB_AP_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#gae2504e9f0711af1609e77b305e996183", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_AHB_AP_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga7740b142f53bb7e3829f7b5c3909f999", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_AHB_AP_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#gac222dc5246e6fada34ac4b838baf4e94", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_AHB_AP_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#gadc383b0c2e107a393497e78c3383bf19", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_AHB_AP_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga6053c96399c2804f0af9af3b2fbf6f7f", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_AHB_AP_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga9afed7528c978aa1d70d55e43ed06367", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_AHB_AP_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#gaccbe1c01a5f602e9ae92b81f2c15eb57", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#gaf3d282e26aec7fb423720a7e1134170a", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_OFST", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga4c28fd6075e2902ddf564aab0bd18c50", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_ONCHIPRAM_ECC_t", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___o_n_c_h_i_p_r_a_m___e_c_c.html#ga3a69bbde00090c8e08cec03ddef616ff", null ]
+];

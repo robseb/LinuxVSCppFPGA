@@ -1,0 +1,36 @@
+var group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s =
+[
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_s", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#struct_a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s__s", [
+      [ "SERRINTS", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ab4b40b3830b302cfa977fce7412fdd30", null ],
+      [ "DERRINTS", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#a081e21fdcde42daeda4128d27067313b", null ],
+      [ "HMI_INTRS", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#a9e701d5bae1c88ba736cdec20615332e", null ],
+      [ "__pad0__", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#abb64bf87f4614371a9e56d26f63695a3", null ]
+    ] ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_SERRINTS_LSB", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga68e65f22e49c90defdb3f2b9a9075565", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_SERRINTS_MSB", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gae233561ba8870dc711f5445ab903be7c", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_SERRINTS_WIDTH", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gabef94f067d64d5b86f3442d790c7823f", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_SERRINTS_SET_MSK", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gaa8fd4471837fa1a781d0986c536dd578", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_SERRINTS_CLR_MSK", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga8940d2513c5ceaf6ae789e724293574b", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_SERRINTS_RESET", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gae993715ecdd07a73d789b738382c11c8", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_SERRINTS_GET", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga29ae263e80b7f5bd1730b08af13deb83", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_SERRINTS_SET", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gaf3fac0797845f8bc5ced362da4ba4123", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_DERRINTS_LSB", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gaf5aea5811a402b1128bcd6186b1eab2d", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_DERRINTS_MSB", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga351b422a01925560f3f2d4f3f5cc0657", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_DERRINTS_WIDTH", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga4b1c73faa93701098d1d0fbf644800a4", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_DERRINTS_SET_MSK", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gab4d7143f71cd8abece5a52b388690cd5", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_DERRINTS_CLR_MSK", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga347a6bd65df0fa79a45400196a7888a3", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_DERRINTS_RESET", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gad113b5f1d154b0835e5c8b15de44e476", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_DERRINTS_GET", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gab41ddcee7679193f50edbb552fc6d949", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_DERRINTS_SET", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga238860dc56539efb05daf7cdefbdd0d5", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_HMI_INTRS_LSB", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gafd4f7ef6178309470b7c85809c568739", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_HMI_INTRS_MSB", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga9f87d4d735417f471f04b2318121355e", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_HMI_INTRS_WIDTH", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga5064edd7396b23cc5da166fe201a6d3c", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_HMI_INTRS_SET_MSK", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga48b0a4cf9363f6ee9148adf7a62869b2", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_HMI_INTRS_CLR_MSK", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga878ff8bffb520a8257fe6a1e5f371c48", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_HMI_INTRS_RESET", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gaac96a623dd15bb27d36d911dc719584b", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_HMI_INTRS_GET", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga28ad8083c38b401c60a7579eaeb7c26e", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_HMI_INTRS_SET", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#ga6ab08ab94ffd0aa818681b902ac02e13", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_RESET", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gaea6fafd5aea000588dde7841762e9ac6", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_OFST", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gaeca7e9b4ff6280463f20479be6ef111f", null ],
+    [ "ALT_ECC_HMC_OCP_ERRINTENS_t", "group___a_l_t___e_c_c___h_m_c___o_c_p___e_r_r_i_n_t_e_n_s.html#gaf5cca9d43aabf83494d497dba2af1cf6", null ]
+];

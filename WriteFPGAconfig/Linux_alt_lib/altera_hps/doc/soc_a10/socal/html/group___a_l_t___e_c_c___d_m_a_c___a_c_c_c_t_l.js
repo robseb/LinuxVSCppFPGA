@@ -1,0 +1,38 @@
+var group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l =
+[
+    [ "ALT_ECC_DMAC_ACCCTL_s", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#struct_a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l__s", [
+      [ "DATAOVR", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#a1d44a6b374bcf79cc62a0a92c1f917ac", null ],
+      [ "ECCOVR", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ac29c77c2c4032fc28558f9c3048ca847", null ],
+      [ "__pad0__", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#a5cf5bc6b097b7d1696fc6c852e0a7ef0", null ],
+      [ "RDWR", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#a828678d12ff7e45fef5b25efe90feff4", null ],
+      [ "__pad1__", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#aa9cb8ce187d2951664ce35797e4a7f6a", null ]
+    ] ],
+    [ "ALT_ECC_DMAC_ACCCTL_DATAOVR_LSB", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga0c7a6bfdb90129165fb3dafa7047f7a5", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_DATAOVR_MSB", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga91ae3bd3dd73243adf654c5b0c600f7f", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_DATAOVR_WIDTH", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga62faa8fe60f0b43066b1e5072ee9e052", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_DATAOVR_SET_MSK", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga5a7cf5e3e96c5aca45517f4ca526a29a", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_DATAOVR_CLR_MSK", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga408fc09c92841ecf13b18f28a00ec4b8", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_DATAOVR_RESET", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga42f07e90a751c83a11dce814de99e6a6", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_DATAOVR_GET", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#gae016537ac8cf014b03b972da0dbc7826", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_DATAOVR_SET", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga31ecea93e01daf846833c1f2b032d2d4", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_ECCOVR_LSB", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#gaf47ef55d437dc319da3c576b8d33b9fa", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_ECCOVR_MSB", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga573f8fab76c906de5025478570ad973c", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_ECCOVR_WIDTH", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#gae032df7135e297ec0bd23f0cb4b59c8e", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_ECCOVR_SET_MSK", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga0028c64d0af5f3625c99337ac2ee93aa", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_ECCOVR_CLR_MSK", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga92a1fc2a19befdda47d03c3609798743", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_ECCOVR_RESET", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#gad77d34eb0d6590121ac19b334a61a3c0", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_ECCOVR_GET", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#gaa46450093318fde0dfa64db0aee4b72f", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_ECCOVR_SET", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga5fcdb5c118717dbb597891a0785f7f30", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_RDWR_LSB", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga719805b288d9e8760bf689ec1de5acae", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_RDWR_MSB", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#gaba3d44146602ca508eb2efd553fd7259", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_RDWR_WIDTH", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga7f05dbb469ba052c1b66080bbd9c64ea", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_RDWR_SET_MSK", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga06047962b76469897a42c13467c7b076", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_RDWR_CLR_MSK", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga31b420e1618b5038af26054c2d69779f", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_RDWR_RESET", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga678a5d76c4c20e57f2d6529ae721a217", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_RDWR_GET", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga1f6240b804cfb3caa802fc2352f0902a", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_RDWR_SET", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga062ed1d0deda7a8b7449963044cdfb2b", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_RESET", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#gaf2ce7aa77f17b073079c0ac0a76b5d2c", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_OFST", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga1a7e9ae602e2bfd8cb9ba4a8ae75361f", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_ADDR", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga0f39ada5e715c42d864996a90a385578", null ],
+    [ "ALT_ECC_DMAC_ACCCTL_t", "group___a_l_t___e_c_c___d_m_a_c___a_c_c_c_t_l.html#ga5886a8adb57f0977d79b0bf1c1ee241a", null ]
+];

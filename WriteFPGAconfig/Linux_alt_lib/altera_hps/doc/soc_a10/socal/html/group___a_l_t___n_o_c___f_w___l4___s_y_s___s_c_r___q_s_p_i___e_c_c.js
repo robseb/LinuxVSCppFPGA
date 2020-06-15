@@ -1,0 +1,38 @@
+var group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c =
+[
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_s", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#struct_a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c__s", [
+      [ "mpu_m0", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#a60951a535484a984c1721990c18a89df", null ],
+      [ "__pad0__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#a411df8c6a495b28fe7bc086fc2d1c65d", null ],
+      [ "fpga2soc", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ab2c2cc4479e9a96b013f68c0faf772a4", null ],
+      [ "__pad1__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#a02cee6c91708c90a30a765a983e7203a", null ],
+      [ "ahb_ap", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#a984e92fdb3b6b51eae0b034c6f97122e", null ],
+      [ "__pad2__", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ac20e5db9df720b8ab434e4f062be52cb", null ]
+    ] ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_MPU_M0_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga5a11063e59ee054e52c0050619e9083a", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_MPU_M0_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#gaa2812d35ca92956acfa353dc9ee78cd6", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_MPU_M0_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#gae448d518f696f4c3ebb9a8d1a01ee117", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_MPU_M0_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga38592cb959debfa8731fc370624dc8ba", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_MPU_M0_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga520d1985a4f5fc68e3bd56033f836868", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_MPU_M0_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga04cc25265e83a9624688a253fecca2aa", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_MPU_M0_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga5ac213ae6f642e618420243756829895", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_MPU_M0_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga331c531790d5e0c684f8b4e939947aa4", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_F2H_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga5f0c35ae1f020139b4b967cd8fb3b747", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_F2H_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga685a252b145b250a442b6f2c88c7db97", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_F2H_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga5612bb3e384a40953a0cdb39246cc838", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_F2H_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#gac02e891cb1e5c877d7fb89933dbb8451", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_F2H_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga1e662486421964158c27f4e7a853467d", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_F2H_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#gaaa49d1b3fddc3ba9077918c9e287620b", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_F2H_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#gace07bcb701b916c5f1b323e83873b5d5", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_F2H_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga17cafdc27c07529cebe76412dbddc573", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_AHB_AP_LSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga001a8e12dc18f8db04249c13b71a099b", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_AHB_AP_MSB", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga26094ecb9ca7b15238bd78e9f7eed99e", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_AHB_AP_WIDTH", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#gaae443cf9e963c915b55f9fffecc9a467", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_AHB_AP_SET_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga95463ce6a6aec3ee1020e7ae35f7046c", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_AHB_AP_CLR_MSK", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga83025117ba78620e63789b21dad47dab", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_AHB_AP_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#gaf9fbbfbb800e14a87af54caf8af17d82", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_AHB_AP_GET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga380b5db482a91eeaead35bb6c2205b37", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_AHB_AP_SET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga05024e55f1d9e34de03c760e8c2cf883", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_RESET", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#ga33c026e6f2610c4af434f50dd7eb66be", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_OFST", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#gaa56e4e4821db42e90b3035991d039caf", null ],
+    [ "ALT_NOC_FW_L4_SYS_SCR_QSPI_ECC_t", "group___a_l_t___n_o_c___f_w___l4___s_y_s___s_c_r___q_s_p_i___e_c_c.html#gacc6bc79e5961d8e1a8701f2f8b59e148", null ]
+];

@@ -1,0 +1,38 @@
+var group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n =
+[
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_s", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#struct_a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n__s", [
+      [ "value", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#af2f7785e618b20ce86e51dc025a4b103", null ],
+      [ "__pad0__", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#a02712a405b8ada9e7c2d3ba18d62bfd7", null ],
+      [ "update_sync_before_prog_comp", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#a9346a22c3f8d34085a56b0acd8170afc", null ],
+      [ "__pad1__", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#a188445e4079503b53dc2b0b68137849f", null ],
+      [ "issue_read_before_sync", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ad292978fbac06dce7a5ba18f3094e54d", null ],
+      [ "__pad2__", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#acd061d2cd1717be422f7a29d039cb75f", null ]
+    ] ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_VALUE_LSB", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#gaae3de4b88ce00733b73d5396e370a475", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_VALUE_MSB", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#gaf9c2e6f66a014484b06c1fc4b709b709", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_VALUE_WIDTH", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga2fc9eb38419d93d0e16279ba6f0d259b", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_VALUE_SET_MSK", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#gac81a7317dad0be6d65fc17c57007902a", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_VALUE_CLR_MSK", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga52e3f8fdd37ed57282aaf40b5b75dae6", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_VALUE_RESET", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga4a36fd7d2a802af11b1f1cd4fb2b6945", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_VALUE_GET", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#gacfe6accf07354c2baa9cf0403f2ec87f", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_VALUE_SET", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga2e40fa704c345222ce06c3077008ba74", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_UPDATE_SYNC_BEFORE_PROG_COMP_LSB", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga5acc31b4b3e86df98cef8b473867d0a2", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_UPDATE_SYNC_BEFORE_PROG_COMP_MSB", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga808b5a7fa2eafd8f287e7ed7dcb12e12", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_UPDATE_SYNC_BEFORE_PROG_COMP_WIDTH", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#gab5dff4cf05c7df231e06487b2df28c5e", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_UPDATE_SYNC_BEFORE_PROG_COMP_SET_MSK", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga3fc9c80777312080bb98ced18d576311", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_UPDATE_SYNC_BEFORE_PROG_COMP_CLR_MSK", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga9dd6150ef1fd35b74d1cef166413354f", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_UPDATE_SYNC_BEFORE_PROG_COMP_RESET", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#gaffa0b8162e6fcc5a0fb1c1d10c0be9ab", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_UPDATE_SYNC_BEFORE_PROG_COMP_GET", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga814a71765c109f74be1f204ff1e0efa2", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_UPDATE_SYNC_BEFORE_PROG_COMP_SET", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#gaaedacfc28211be81cf0d219ea35859c0", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_ISSUE_RD_BEFORE_SYNC_LSB", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga4d2364a9bde48af0d30f4abbd03fc35e", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_ISSUE_RD_BEFORE_SYNC_MSB", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga8b5003ad41b4e1b9ea21b9a42f7f03ca", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_ISSUE_RD_BEFORE_SYNC_WIDTH", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga0cbddfc743417017e0d6c97ec2227893", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_ISSUE_RD_BEFORE_SYNC_SET_MSK", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga0f7bbed2b377306b1055e2259265d2e3", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_ISSUE_RD_BEFORE_SYNC_CLR_MSK", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga4a8e483a95e5bcb589a66d4cefc007fa", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_ISSUE_RD_BEFORE_SYNC_RESET", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga58d16d1988ea4e0a5a6bf557e6e34d8d", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_ISSUE_RD_BEFORE_SYNC_GET", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga275a160cc4806cf3b662bd25e9c8a8fb", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_ISSUE_RD_BEFORE_SYNC_SET", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#gada2871f1afda44ae627df10a84ba0918", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_RESET", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga4f817c1d3be7986485b42e8507b1877c", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_OFST", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga9793c2973a5419d64dec495bad23bdee", null ],
+    [ "ALT_NAND_DMA_NO_OF_BLOCKS_PER_LUN_t", "group___a_l_t___n_a_n_d___d_m_a___n_o___o_f___b_l_o_c_k_s___p_e_r___l_u_n.html#ga4fd2032b4a548a9808a70f5d514e64f8", null ]
+];

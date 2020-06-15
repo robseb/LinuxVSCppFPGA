@@ -1,0 +1,38 @@
+var group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d =
+[
+    [ "ALT_ECC_QSPI_INTMOD_s", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#struct_a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d__s", [
+      [ "INTMODE", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#a6e0148499b475a255ef47e93fcfb9bd5", null ],
+      [ "__pad0__", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#a0a70872b5e1db80a2311a4d24d6cfbea", null ],
+      [ "INTONOVF", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#a30e3c891a98be0519cd760ad67786100", null ],
+      [ "__pad1__", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#a4d16707002922f198e228e30202ebe18", null ],
+      [ "INTONCMP", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#a933c4decd0626e9ffd94e12aefb8a521", null ],
+      [ "__pad2__", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ad4ecc55bf65714c154334e490c33d9f6", null ]
+    ] ],
+    [ "ALT_ECC_QSPI_INTMOD_INTMOD_LSB", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga7a23841103a876d37ff5bce25e76775d", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTMOD_MSB", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga436a3c215aa923d8e05b4151b21a41cd", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTMOD_WIDTH", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga0eabeb31a9c148929edd8a92f6328a73", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTMOD_SET_MSK", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#gaecdf3d4771c4c7fdaffa35ae26f30cab", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTMOD_CLR_MSK", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga7410433e8a840d11e973706c44aad731", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTMOD_RESET", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga6ab8f92fec9f654589a4fe852826d800", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTMOD_GET", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#gab8b22ff8f1aed9e24c602c91a92cfaef", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTMOD_SET", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#gac3cb12ed54ae80fc16eb603506a88c03", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONOVF_LSB", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#gac512f96c34fa8fdab62a6ec27692c83d", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONOVF_MSB", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga94847a1790e536509dfefad48bc553d4", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONOVF_WIDTH", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga3c3899d826e0aa66333b26ccf0c2b444", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONOVF_SET_MSK", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#gab9f02dd87fbf5c9a70e6dfd1976a824a", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONOVF_CLR_MSK", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga511c0b4f9c91ac455e5c13d6336af746", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONOVF_RESET", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga210bccd7cf5284a882d3f93a517c3285", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONOVF_GET", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga03d0a0ee7aafae36da29278814d3fc78", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONOVF_SET", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga21f03b18af381f0c2691b19526beda4c", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONCMP_LSB", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#gab8886b04ba1274594074820c63147fdf", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONCMP_MSB", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#gad17fc327de36181c7c946cc1241bd599", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONCMP_WIDTH", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga7a98d77b58956adf18c6144a6d34871e", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONCMP_SET_MSK", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga6688e0e0d41e06e2f4981ec71e15496d", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONCMP_CLR_MSK", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#gae58fee4bcf0dd049b6ae2b94c495d4ca", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONCMP_RESET", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga46132da97c812b2d85603097c247097e", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONCMP_GET", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#gad2e76fdaa985e04020bb2cffa3eb38f7", null ],
+    [ "ALT_ECC_QSPI_INTMOD_INTONCMP_SET", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga9d61fca02b3272d3b3f35f598804c1fc", null ],
+    [ "ALT_ECC_QSPI_INTMOD_RESET", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga49d7b6ae28dd34fedb47a3b44556b057", null ],
+    [ "ALT_ECC_QSPI_INTMOD_OFST", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#gab29790fb008a32db77e5e3637fb6904d", null ],
+    [ "ALT_ECC_QSPI_INTMOD_t", "group___a_l_t___e_c_c___q_s_p_i___i_n_t_m_o_d.html#ga0230d1e0a4a0664a9325b5bfbf802a63", null ]
+];

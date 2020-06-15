@@ -1,0 +1,38 @@
+var group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d =
+[
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_s", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#struct_a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d__s", [
+      [ "INTMODE", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#a7bccc42d6d605d226e8e13c4e5436755", null ],
+      [ "__pad0__", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#a7a6b6710f8d0ac1887f22ffa042f2776", null ],
+      [ "INTONOVF", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#a756a988bc8b2837adfd0fe42581e0fd0", null ],
+      [ "__pad1__", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ae8f08711b50a3220e92862c55a0ef909", null ],
+      [ "INTONCMP", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#a84f7a8762372fd780064561be958a470", null ],
+      [ "__pad2__", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#abfe9e898ef1e6e6e93829337ce824b6a", null ]
+    ] ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTMOD_LSB", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga7a5772f786969814245d922d318cd7da", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTMOD_MSB", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga89f4659914e3735a9688e3622e6d732a", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTMOD_WIDTH", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga8fb0ad6fedb54639455fd338f52dce6a", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTMOD_SET_MSK", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#gadb5d52d53bb09e6bf16a10bde8707d30", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTMOD_CLR_MSK", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga6d54bc2cb1d35dc6a2edb58529cf5a38", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTMOD_RESET", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#gae1a857e0d59ca34f3085d572426e85fe", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTMOD_GET", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga3a382d5f89c62ea92325459a63ad84cd", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTMOD_SET", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga71dab66523f751344f66d22196009bbf", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONOVF_LSB", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#gabcae320921463c9ef7a5cf2002940aa0", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONOVF_MSB", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga91925b383166a9ddc0a305a32e2eff3d", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONOVF_WIDTH", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga93c72762b09af41d2b037f7d84e2eb8f", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONOVF_SET_MSK", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga0f94eaeab6afc13714411fe182782684", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONOVF_CLR_MSK", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga9188b5a6a1117d03f929952aa5503d44", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONOVF_RESET", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga4d427271a31e453820c4dff772ee2762", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONOVF_GET", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#gaed10f58ebb4874d43c9e76f0ffd19f01", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONOVF_SET", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#gac77eadf36b2630cd239705f909588569", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONCMP_LSB", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga7265f8e0a25e7e2c0c4b880f996885c0", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONCMP_MSB", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga957cf0dd55f8cad3101d9d7aaa8f8b4d", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONCMP_WIDTH", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga26e35ace2a3506219142e486ae91a4f0", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONCMP_SET_MSK", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga51e400f6e53a2330a84904206b812595", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONCMP_CLR_MSK", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga7ae3e376aeebc926644194af5a9747a1", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONCMP_RESET", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga310ecb52bb2d7eb408c6575bd6dbecc3", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONCMP_GET", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga3f47a1956f186b12f51cc0b00697a557", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_INTONCMP_SET", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga27c6680844a1286987b38a29a2bcffc7", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_RESET", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga9053ea4310a7177ee471fabd6f560fd8", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_OFST", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#gab02ec715ca73f8ef9b2acd37a81726eb", null ],
+    [ "ALT_ECC_EMAC1_RX_ECC_INTMOD_t", "group___a_l_t___e_c_c___e_m_a_c1___r_x___e_c_c___i_n_t_m_o_d.html#ga5cef77db1fcecd5f154eeae4e5a8bc87", null ]
+];

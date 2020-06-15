@@ -1,0 +1,38 @@
+var group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l =
+[
+    [ "ALT_ECC_NANDW_ACCCTL_s", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#struct_a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l__s", [
+      [ "DATAOVR", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ad6653180cc65e05f0fcbaddf7f003b1c", null ],
+      [ "ECCOVR", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#a9c953c1ce3de5715981254a2515d8aae", null ],
+      [ "__pad0__", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#a0fd204c95625cc2bd763f65668b87472", null ],
+      [ "RDWR", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#a0032e5807890ef2b58574b985a6de919", null ],
+      [ "__pad1__", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ab598e1c45d00cc01ab26187217e4e447", null ]
+    ] ],
+    [ "ALT_ECC_NANDW_ACCCTL_DATAOVR_LSB", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga0ed9f89ed1976a3c7fbcba7d8d9f6ae1", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_DATAOVR_MSB", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#gadd6f83599a48eebe7a4e9e3f1b5f1d6a", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_DATAOVR_WIDTH", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga2366a26c7a7c494cde9ed300c97ae7c5", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_DATAOVR_SET_MSK", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga524a69dc970c095aa8e06ffcdc094dc1", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_DATAOVR_CLR_MSK", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#gab04ea8587f0f62509cd9aad76a5fef8d", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_DATAOVR_RESET", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga4d9b3e328bb75ceb68172d9622f4fac9", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_DATAOVR_GET", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga44a6d6ae65728c05b455f6d7ec28cebf", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_DATAOVR_SET", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#gae13fecaaf2044fdf515275e3b5cce0ed", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_ECCOVR_LSB", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga1130995ee38918f45ec09b68d92c38d8", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_ECCOVR_MSB", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga96f21f4b631ecf853bb1113db248c5f1", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_ECCOVR_WIDTH", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga57520fbf661a0b1d30df1b6ccf39af5d", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_ECCOVR_SET_MSK", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#gae5124136b20669604b0999f9aeb11514", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_ECCOVR_CLR_MSK", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga7a2fd052d701fec5c82956021a6d1ce8", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_ECCOVR_RESET", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#gab3e256f3061468a70d846dd88c4f811b", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_ECCOVR_GET", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga3008884d6887fc43fc4f41f340dcc592", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_ECCOVR_SET", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga72272cdcc8c2099cdd7b32c612facc47", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_RDWR_LSB", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga3eff1368be05b174408a39f9d6cea79a", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_RDWR_MSB", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga3488406ca36c522aeacf133a6463fa05", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_RDWR_WIDTH", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#gaaa5b96719216df75f79c00af9e069517", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_RDWR_SET_MSK", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga84820afca7bda1ae3ff471225e5768c4", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_RDWR_CLR_MSK", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga8959f1742b143f9e9572e0aec79e789d", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_RDWR_RESET", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga898ac6732cc66840117de38f809429ba", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_RDWR_GET", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga5f53956a008346390f704d22123d50c5", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_RDWR_SET", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#gad9add9b07028fbf646745e2189770248", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_RESET", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#gab20a46dc9b3ecfd4ba273cb327f4fe5b", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_OFST", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga1e517d9c7e194d7da7c6503cceadcc74", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_ADDR", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#gabef0ce989b2f0e96bea518811f47cc14", null ],
+    [ "ALT_ECC_NANDW_ACCCTL_t", "group___a_l_t___e_c_c___n_a_n_d_w___a_c_c_c_t_l.html#ga4f4f4dbc58589684adcd26682aa85454", null ]
+];
