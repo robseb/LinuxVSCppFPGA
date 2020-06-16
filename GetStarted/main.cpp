@@ -128,6 +128,9 @@ int main(int argc, const char* argv[])
 		std::this_thread::sleep_until(std::chrono::system_clock::now() + std::chrono::milliseconds(100));
 	}
 
+	// Turn the HPS_LED off agian
+	alt_gpio_port_data_write(DEMO_LED_PORT, (1 << DEMO_LED_PIN),0);
+
 	cout << "End of Application\n" << endl;
 
 	return 1;

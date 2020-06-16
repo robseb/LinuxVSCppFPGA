@@ -57,6 +57,8 @@ using namespace std;
 #define DEMO_DEVBOARD_DE10STD  2 // Terasic DE10 Standard
 #define DEMO_DEVBOARD_UNKNOWN  0
 
+// Select your Development Board
+#define DEMO_SELECTED_BOARD DEMO_DEVBOARD_UNKNOWN
 
 #if DEMO_SELECTED_BOARD == DEMO_DEVBOARD_UNKNOWN
 #error "Please select your development board!"
