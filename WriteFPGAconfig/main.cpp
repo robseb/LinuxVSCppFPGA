@@ -20,7 +20,7 @@
 //				+ Change the FPGA configuration back 
 //
 //			@Supported platforms:
-//					rsyocto Version 1.032 or newer (https://github.com/robseb/rsyocto/)
+//					rsyocto Version 1.032 or later (https://github.com/robseb/rsyocto/)
 //
 //			@Other Linux:
 //					Embedded Linux with Intel Cyclone V SoC-FPGAs with the pre-instalment of the Intel hwlib .h-files
@@ -53,18 +53,17 @@ using namespace std;
 // Demo configuration
 //
 
-// Type of the FPGA Configuration file 
-#define DEMO_TYPE_OF_FPGACONF(st) ((st==ALT_FPGA_CFG_MODE_PP16_SLOW_AES_NODC) || (st==ALT_FPGA_CFG_MODE_PP16_SLOW_NOAES_NODC)  ||  (st==ALT_FPGA_CFG_MODE_PP16_FAST_NOAES_NODC))
-
 #define DEMO_DEVBOARD_DE10NANO 1 // Terasic DE10 Nano
 #define DEMO_DEVBOARD_DE10STD  2 // Terasic DE10 Standard
 #define DEMO_DEVBOARD_UNKNOWN  0
 
-// Select your development board
-#define DEMO_SELECTED_BOARD DEMO_DEVBOARD_DE10STD
+
+#if DEMO_SELECTED_BOARD == DEMO_DEVBOARD_UNKNOWN
+#error "Please select your development board!"
+#endif 
 
 // Path of the FPGA configuration file to write to the FPGA fabirc inside the Linux rootfs 
-#ifdef DEMO_SELECTED_BOARD == DEMO_DEVBOARD_DE10STD
+#if DEMO_SELECTED_BOARD == DEMO_DEVBOARD_DE10STD
 #define DEMO_FPGACONF_PATH	"/home/root/blinky_std.rbf"
 #elif  DEMO_SELECTED_BOARD == DEMO_DEVBOARD_DE10NANO
 #define DEMO_FPGACONF_PATH	"/home/root/blinky_nano.rbf"
