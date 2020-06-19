@@ -8,16 +8,17 @@
 //            ##    ##  ##    ##       ##    ##     ## ##    ##    ##    ##     ##
 //            ##     ##  ######        ##     #######   ######     ##     #######
 //
-//		    ----					HPS2FPGA Bdrige Demo				   ----
+//		    ----					   HPS2FPGA Bdrige Demo				   ----
 //			----				for the Intel Cyclone V SoC-FPGA		   ----
 //			@Description:
-//				Controll the HPS (Hard processor system) LED and Push button of 
-//				a Terasic DE10 development board  with the Intel hwlib (HPS periphery libary)  
+//				Acess the HPS to FPGA Leight wight (LW2FPGA) Bridge 
+//							to interact with FPGA Soft-IP
 //			
-//				+ Configure the HPS_LEY as output
-//				+ Configure the HPS_KEY as input 	
-//				+ Read the HPS_KEY and write the value to the HPS_LED and console  
-//
+//				+ Acess the Bridge Memory interface
+//				+ Read the UNIQUE ID over the LW2FPGA Bridge 	
+//				+ Count the FPGA LEDs and FPGA 7Sigment Display Soft-IP Up
+//				+ Read the FPGA Push Button and FPGA Swiches  
+//			
 //			@Supported platforms:
 //					rsyocto Version 1.032 or later (https://github.com/robseb/rsyocto/)
 //
@@ -39,9 +40,11 @@
 #include <chrono>					// Required for putting task to sleep 
 
 #include <fstream>					// POSIX: for acessing Linux drivers
-#include <sys/mman.h>
-#include <fcntl.h>
-#include "hps.h"
+#include <sys/mman.h>				// POSIX: memory maping
+#include <fcntl.h>					// POSIX: "PROT_WRITE", "MAP_SHARED", ...
+#include <unistd.h>					// POSIX: for closing the Linux driver access
+
+#include "hps.h"					// hwlib: With system constants for the Cyclone V SoC-FPGA
 
 using namespace std;
 
@@ -56,7 +59,6 @@ using namespace std;
 //
 // Demo configuration
 //
-
 #define DEMO_DEVBOARD_DE10NANO 1 // Terasic DE10 Nano
 #define DEMO_DEVBOARD_DE10STD  2 // Terasic DE10 Standard
 #define DEMO_DEVBOARD_UNKNOWN  0
@@ -91,7 +93,7 @@ using namespace std;
 #endif 
 
 // Number of durations for the demo loop 
-#define DEMO_DURATIONS 50
+#define DEMO_DURATIONS 100
 /*
  * Main function
  */
@@ -205,7 +207,6 @@ int main(int argc, const char* argv[])
 		// C++11: Put this task for 100ms to sleep 
 		std::this_thread::sleep_until(std::chrono::system_clock::now() + std::chrono::milliseconds(100));
 	}
-
 
 
 #if DEMO_EN_SEVENSIG == 1
