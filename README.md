@@ -29,7 +29,7 @@ ___
         * **Change the FPGA configuration** 
         * Change the FPGA configuration back to the original version
 * **ADCdemo**     
-    * **Read the Channel 0 of the *Analog Device LTC2308* 12-bit ADC connected via a Soft-IP to the *Lightweight SoC-to-HPS Bridge***
+    * **Read the Channel 0 of the *Analog Device LTC2308* 12-bit ADC connected via a Soft-IP to the *Lightweight HPS-to-FPGA Bridge***
         * **Configure the HPS_LED as output**
         * **Configure the ADC interface**
         * **Read a ADC value, convert it to voltage and print it out** 
