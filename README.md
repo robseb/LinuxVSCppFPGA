@@ -59,7 +59,7 @@ ___
 
 * **Select your FPGA board for the Demo**
     * The pre-installed demo contains a simple stop watch written as FreeRTOS task
-    * Choice your FPGA development board for this demo due to specifying "*SELCTED_BOARD*" in "*main.c*"
+    * Choice your FPGA development board for this demo due to specifying "*DEMO_SELECTED_BOARD*" in "*BoardConf.h*"
         ````c
         #define DEMO_DEVBOARD_DE10NANO    1 // Terasic DE10 Nano
         #define DEMO_DEVBOARD_DE10STD     2 // Terasic DE10 Standard
