@@ -15,7 +15,7 @@
 /////// Register Set ///////
 
 // ADC data register no for channel (read only)
-#define ADC_REG_NO_DATACH(nr) (nr) // ADC data output register address ofset for every channels
+#define ADC_REG_NO_DATACH(nr) (nr) // ADC data output register address number for each channels
 
 // ADC Control register no (write only)
 #define ADC_REG_NO_UPDATE      0 // Update the converted values
@@ -69,6 +69,9 @@ public:
     */
     inline ~LTC2308()
     {
+        // Stop the the auto conversion of the ADC
+        this->autoUpdate(false);
+
         // Close the memory map
         munmap(this->adcMap, ADC_REG_RANGE);
 
@@ -130,7 +133,7 @@ public:
     *
     * @brief             Read the ADC value as voltage 
     * @param ch          channel number to read
-    * @return            float value of the ADC input volatge
+    * @return            float value of the ADC input voltage
     */
     inline float readChannelU(uint8_t ch = 0)
     {
