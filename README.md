@@ -46,7 +46,7 @@ ___
 * Connect the Visual Studio remote debugger (*gdb-server*) to the development board
     * by selecting inside Visual Studio `Tools/Options/Cross Platform` the "Remove"-Button and then "Add"-Button to insert the credentials of your board
         * Platform: `ARM`
-        * Host Name: `IPv4-Address` of your Board:
+        * Host Name: `IPv4-Address of your Board`
         * Port: `22`
         * User name: `root`
         * Authentication type: `Password`
