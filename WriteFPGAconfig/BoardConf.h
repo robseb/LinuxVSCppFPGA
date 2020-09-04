@@ -28,7 +28,7 @@
 #define DEMO_DEVBOARD_UNKNOWN     0
 
 // Select your Development Board
-#define DEMO_SELECTED_BOARD DEMO_DEVBOARD_DE10NANO
+#define DEMO_SELECTED_BOARD DEMO_DEVBOARD_UNKNOWN
 
 #if DEMO_SELECTED_BOARD == DEMO_DEVBOARD_UNKNOWN
 #error "Please select your development board!"
