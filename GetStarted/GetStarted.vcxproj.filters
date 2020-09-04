@@ -88,4 +88,7 @@
       <UniqueIdentifier>{991fc31e-933b-46a6-99a8-83e03fb24996}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BoardConf.h" />
+  </ItemGroup>
 </Project>

@@ -59,9 +59,10 @@ using namespace std;
 //
 // Demo configuration
 //
-#define DEMO_DEVBOARD_DE10NANO 1 // Terasic DE10 Nano
-#define DEMO_DEVBOARD_DE10STD  2 // Terasic DE10 Standard
-#define DEMO_DEVBOARD_UNKNOWN  0
+#define DEMO_DEVBOARD_DE10NANO    1 // Terasic DE10 Nano
+#define DEMO_DEVBOARD_DE10STD     2 // Terasic DE10 Standard
+#define DEMO_DEVBOARD_DE0NANOSOC  3 // Terasic DE0 Nano SoC
+#define DEMO_DEVBOARD_UNKNOWN     0
 
 // Select your Development Board
 #define DEMO_SELECTED_BOARD DEMO_DEVBOARD_DE10STD
@@ -81,6 +82,16 @@ using namespace std;
 	#define DEMO_LW_SEVENSIG_OFFSET 0x38				// Seven Sigment Display IP address offset 
 	#define DEMO_LW_ADC_OFFSET		0x40				// Analog Deives LTC2308 ADC IP address offset 
 #elif DEMO_SELECTED_BOARD == DEMO_DEVBOARD_DE10NANO
+	#define DEMO_LW_SYSTEMID_OFFSET 0x30				// System ID for Intel FPGA address offset
+	#define DEMO_LW_SYSTEMID		0xCAFEACDC			// Unique ID of the Intel FPGA address offset
+	#define DEMO_LW_LED_MAXVALUE	254					// Maximal countebil vaule on the LEDs
+	#define DEMO_LW_LED_OFFSET		0x20				// PIO (Parallel I/O) Intel FPGA for accessing the FPGA LEDs address offset
+	#define DEMO_LW_KEYS_OFFSET		0x10				// PIO (Parallel I/O) Intel FPGA for accessing the FPGA Keys address offset
+	#define DEMO_LW_SWICHES_OFFSET	0x00				// PIO (Parallel I/O) Intel FPGA for accessing the FPGA Swiches address offset
+	#define DEMO_EN_SEVENSIG		0					// Disable the Seven Sigment Display 
+	#define DEMO_LW_SEVENSIG_OFFSET 0					// Seven Sigment Display IP address offset 
+	#define DEMO_LW_ADC_OFFSET		0x40				// Analog Deives LTC2308 ADC IP address offset  
+#elif DEMO_SELECTED_BOARD == DEMO_DEVBOARD_DE0NANOSOC
 	#define DEMO_LW_SYSTEMID_OFFSET 0x30				// System ID for Intel FPGA address offset
 	#define DEMO_LW_SYSTEMID		0xCAFEACDC			// Unique ID of the Intel FPGA address offset
 	#define DEMO_LW_LED_MAXVALUE	254					// Maximal countebil vaule on the LEDs

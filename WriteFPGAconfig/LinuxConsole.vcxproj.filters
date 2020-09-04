@@ -88,4 +88,7 @@
       <Filter>hwlib\soc_cv_av</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BoardConf.h" />
+  </ItemGroup>
 </Project>

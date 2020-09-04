@@ -79,6 +79,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BoardConf.h" />
     <ClInclude Include="hps.h" />
   </ItemGroup>
   <ItemDefinitionGroup />

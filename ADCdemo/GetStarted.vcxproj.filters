@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_cache.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_can.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_dma.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_dma_program.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_generalpurpose_io.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_globaltmr.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_i2c.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_mmu.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_nand.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_qspi.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_reset_manager.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_sdram.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_spi.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_timers.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_watchdog.c">
+      <Filter>hwlib</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_bridge_manager.c">
+      <Filter>hwlib\soc_cv_av</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_fpga_manager.c">
+      <Filter>hwlib\soc_cv_av</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_clock_manager_init.c">
+      <Filter>hwlib\soc_cv_av</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_clock_manager.c">
+      <Filter>hwlib\soc_cv_av</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_ecc.c">
+      <Filter>hwlib\soc_cv_av</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_address_space.c">
+      <Filter>hwlib\soc_cv_av</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\alt_sdmmc.c">
+      <Filter>hwlib\soc_cv_av</Filter>
+    </ClCompile>
+    <ClCompile Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_system_manager.c">
+      <Filter>hwlib\soc_cv_av</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_bridge_f2s_gnu.s">
+      <Filter>hwlib\soc_cv_av</Filter>
+    </None>
+    <None Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_bridge_f2s_armcc.s">
+      <Filter>hwlib\soc_cv_av</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="hwlib">
+      <UniqueIdentifier>{d81b3d77-6c57-45e7-b641-4ed79f9c8714}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hwlib\soc_cv_av">
+      <UniqueIdentifier>{991fc31e-933b-46a6-99a8-83e03fb24996}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

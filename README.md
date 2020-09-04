@@ -28,7 +28,11 @@ ___
         * **Read the status of the FPGA fabric**		
         * **Change the FPGA configuration** 
         * Change the FPGA configuration back to the original version
-
+* **ADCdemo**     
+    * **Read the Channel 0 of the *Analog Device LTC2308* 12-bit ADC connected via a Soft-IP to the *Lightweight SoC-to-HPS Bridge***
+        * **Configure the HPS_LED as output**
+        * **Configure the ADC interface**
+        * **Read a ADC value, convert it to voltage and print it out** 
 <br>
 
 
@@ -53,6 +57,22 @@ ___
     ![Alt text](startup_project_selection.png?raw=true "Visual Studio StartUp project selection")
     <br>
 
+* **Select your FPGA board for the Demo**
+    * The pre-installed demo contains a simple stop watch written as FreeRTOS task
+    * Choice your FPGA development board for this demo due to specifying "*SELCTED_BOARD*" in "*main.c*"
+        ````c
+        #define DEMO_DEVBOARD_DE10NANO    1 // Terasic DE10 Nano
+        #define DEMO_DEVBOARD_DE10STD     2 // Terasic DE10 Standard
+        #define DEMO_DEVBOARD_DE0NANOSOC  3 // Terasic DE0 Nano SoC
+        #define DEMO_DEVBOARD_UNKNOWN     0
+        
+        // Select your Development Board
+        #define DEMO_SELECTED_BOARD DEMO_DEVBOARD_DE10NANO
+        
+        #if DEMO_SELECTED_BOARD == DEMO_DEVBOARD_UNKNOWN
+        #error "Please select your development board!"
+        #endif 
+        ````
 * Press the debug button to start the debugging session 
 <br>
 

@@ -35,6 +35,7 @@
 //
 // Includes 
 //
+#include "BoardConf.h"				// Contains board consts
 #include "hwlib.h"					// Intel hwlib 
 #include "alt_fpga_manager.h"		// Intel hwlib driver for the Cyclone V FPGA manger
 
@@ -49,31 +50,6 @@ using namespace std;
 //
 #define DEBUG_ALT_FPGA_MANAGER
 
-//
-// Demo configuration
-//
-
-#define DEMO_DEVBOARD_DE10NANO 1 // Terasic DE10 Nano
-#define DEMO_DEVBOARD_DE10STD  2 // Terasic DE10 Standard
-#define DEMO_DEVBOARD_UNKNOWN  0
-
-// Select your Development Board
-#define DEMO_SELECTED_BOARD DEMO_DEVBOARD_UNKNOWN
-
-#if DEMO_SELECTED_BOARD == DEMO_DEVBOARD_UNKNOWN
-#error "Please select your development board!"
-#endif 
-
-// Path of the FPGA configuration file to write to the FPGA fabirc inside the Linux rootfs 
-#if DEMO_SELECTED_BOARD == DEMO_DEVBOARD_DE10STD
-#define DEMO_FPGACONF_PATH	"/home/root/blinky_std.rbf"
-#elif  DEMO_SELECTED_BOARD == DEMO_DEVBOARD_DE10NANO
-#define DEMO_FPGACONF_PATH	"/home/root/blinky_nano.rbf"
-#endif
-
-// In rsyocto is orginal FPGA configuration witch was used by the secondary bootloader
-//   located in following path: /usr/rsyocto/running_bootloader_fpgaconfig.rbf
-#define DEMO_ORIGINAL_FPGACONF_PATH "/usr/rsyocto/running_bootloader_fpgaconfig.rbf"
 
 #pragma region File access- and convert functions
 
@@ -172,7 +148,8 @@ int main(int argc, const char* argv[])
 	cout <<"+ Reading the MSEL-switch postion" << endl<< cfg2str(msel_pos) << endl;
 
 	///////// Check that the MSEL switch of the development board is in a compatible position for the FPGA configuration file  /////////
-	if (!(DEMO_TYPE_OF_FPGACONF(msel_pos)))
+	if (!(msel_pos == ALT_FPGA_CFG_MODE_PP16_SLOW_AES_NODC) &&
+		(msel_pos == ALT_FPGA_CFG_MODE_PP16_SLOW_NOAES_NODC) && (msel_pos == ALT_FPGA_CFG_MODE_PP16_FAST_NOAES_NODC))
 	{
 		cout << "\nERROR: The MSEL Switch is in the wrong postion!" << endl;
 		cout << "It is not posible to write the FPGA configuration" << endl;
@@ -184,16 +161,6 @@ int main(int argc, const char* argv[])
 	ALT_FPGA_STATE_t fabric_status = alt_fpga_state_get();
 	cout <<"+ Reading the status of the FPGA" <<endl<< std2str(fabric_status) << endl;
 
-
-	///////// Check that the MSEL switch of the development board is in a compatible position for the FPGA configuration file  /////////
-	if (!(msel_pos == ALT_FPGA_CFG_MODE_PP16_SLOW_AES_NODC) && 
-		(msel_pos == ALT_FPGA_CFG_MODE_PP16_SLOW_NOAES_NODC) && (msel_pos == ALT_FPGA_CFG_MODE_PP16_FAST_NOAES_NODC))
-	{
-		cout << "\nERROR: The MSEL Switch is in the wrong postion!" << endl;
-		cout << "It is not posible to write the FPGA configuration" << endl;
-		alt_fpga_control_disable();
-		return -1;
-	}
 
 	///////// Write a new configuration to the FPGA   /////////
 	bool configState = write_FpgaConf(DEMO_FPGACONF_PATH);

@@ -118,6 +118,9 @@
     <None Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_bridge_f2s_armcc.s" />
     <None Include="Linux_alt_lib\altera_hps\hwlib\src\hwmgr\soc_cv_av\alt_bridge_f2s_gnu.s" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BoardConf.h" />
+  </ItemGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">
     <ClCompile>
       <PreprocessorDefinitions>soc_cv_av;LINUX_TASK_MODE;PRINTF_HOST;%(PreprocessorDefinitions)</PreprocessorDefinitions>

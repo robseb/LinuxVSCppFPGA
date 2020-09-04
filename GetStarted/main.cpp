@@ -14,7 +14,7 @@
 //				Controll the HPS (Hard processor system) LED and Push button of 
 //				a Terasic DE10 development board  with the Intel hwlib (HPS periphery libary)  
 //			
-//				+ Configure the HPS_LEY as output
+//				+ Configure the HPS_LED as output
 //				+ Configure the HPS_KEY as input 	
 //				+ Read the HPS_KEY and write the value to the HPS_LED and console  
 //
@@ -34,6 +34,7 @@
 //
 // Includes 
 //
+#include "BoardConf.h"				// Contains board consts
 #include "hwlib.h"					// Intel hwlib 
 #include "socal/hps.h"				// Intel hwlib 
 #include "alt_generalpurpose_io.h"  // Intel hwlib driver HPS GPIO
@@ -49,26 +50,11 @@ using namespace std;
 // Demo configuration
 //
 
-// 
-// Terasic DE10 Boards HPS LED and HPS Push-button Pin assignment 
-//
-//	Signal	|	HPS GPIO	|	Register	| hwlib Port	|	hwlib Pin	
-//	---------------------------------------------------------------------
-//	HPS_LED |	 GPIO53		|	GPIO1[24]	|	GPIOB		|	24
-//	HPS_KEY |	 GPIO54		|	GPIO1[25]	|	GPIOB		|	25
-//
-//
 
-// GPIO assigment for HPS_LED
-#define DEMO_LED_PORT ALT_GPIO_PORTB
-#define DEMO_LED_PIN 24
-
-// GPIO assigment for HPS_KEY
-#define DEMO_KEY_PORT ALT_GPIO_PORTB
-#define DEMO_KEY_PIN 25
 
 // Number of durations for the demo loop 
 #define DEMO_DURATIONS 100
+
 /*
  * Main function
  */
