@@ -1,7 +1,7 @@
 
 ![GitHub](https://img.shields.io/static/v1?label=Microsoft+Visual+Studio&message=2019&color=yellowgreen)
 ![GitHub](https://img.shields.io/github/license/robseb/socfpgaPlatformGenerator)
-# Microsoft Visual Studio 2019 for C++ Linux Development demo applications to getting started with embedded C++ development for Intel SoC-FPGAs
+# Microsoft Visual Studio 2019 for C++ Linux Development demo applications to get started with embedded C++ development for Intel SoC-FPGAs
 
 **These three C++ Demo projects show how to interact with FPGA Soft-IP- and Linux Devices on an embedded Linux. Also, it is demonstrated how to use the *Intel hwlib* to change for instance the FPGA configuration.**   
 I designed it to give users of my embedded Linux ["*rsyocto*"](https://github.com/robseb/rsyocto) a starting point in C++ development. 
@@ -11,19 +11,19 @@ ___
 # Demo Projects 
 
 * **GetStarted**
-    * **Control the HPS (*Hard processor system*) LED and Push button** of a *Terasic* DE10 development board  with the *Intel hwlib* (*HPS periphery library*) 
+    * **Control the HPS (*Hard processor system*) LED and Push button** of a *Terasic* DE10 development board  with the *Intel hwlib* (*HPS peripheral library*) 
         * **Using the General-Purpose I/O (GPIO) interface modules of Intel SoC-FPGAs with Linux**
         * Configure the *HPS_LEY* as output
         * Configure the *HPS_KEY* as input 	
         * Read the *HPS_KEY* and write the value to the *HPS_LED* and console  
 * **HPSbridgeDemo**
-    * **Access the HPS to FPGA Light wight (LW2FPGA) Bridge  to interact with FPGA Soft-IP**
+    * **Access the HPS to FPGA Lightweight (*LW2FPGA; lwhps2fpga*) Bridge to interact with FPGA Soft-IP**
         * Access the Bridge Memory interface
         * Read the **UNIQUE ID** over the **LW2FPGA Bridge** 	
         * Count the **FPGA LEDs** and **FPGA 7Segment Display Soft-IP** up
         * Read the **FPGA Push Buttons** and **FPGA Switches**
 * **WriteFPGAconfig**     
-    * **Write the FPGA Configuration of an Intel Cyclone V SoC-FPGA** via the **FPGA Manager** and the *Intel hwlib* (*HPS periphery library*)
+    * **Write the FPGA Configuration of an Intel Cyclone V SoC-FPGA** via the **FPGA Manager** and the *Intel hwlib* (*HPS peripheral library*)
         * **Read the *MSEL* switch position** of the development board  
         * **Read the status of the FPGA fabric**		
         * **Change the FPGA configuration** 
@@ -32,13 +32,13 @@ ___
     * **Read the Channel 0 of the *Analog Device LTC2308* 12-bit ADC connected via a Soft-IP to the *Lightweight HPS-to-FPGA Bridge***
         * **Configure the HPS_LED as output**
         * **Configure the ADC interface**
-        * **Read a ADC value, convert it to voltage and print it out** 
+        * **Read an ADC value, convert it to voltage and print it out** 
 <br>
 
 
 
-# Getting Started
-* Instal *Microsoft Visual Studio for Linux development* 
+# Get Started
+* Install *Microsoft Visual Studio for Linux development* 
     * Please consider my following [**guide**](https://github.com/robseb/rsyocto/blob/rsYocto-1.04/doc/guides/3_CPP.md#installing-microsoft-visual-studio-for-linux-development)
 * Clone this repository 
 * Open the "*rsYoctoExamples.sln*" Microsoft Visual Studio Solution file to start Visual Studio
@@ -82,7 +82,7 @@ ___
 # Author
 * **Robin Sebastian**
 
-rsyocto are projects, that I have fully developed on my own. No companies are involved in my projects. 
+rsyocto is a project, that I have fully developed on my own. No companies are involved in my projects. 
 I’m recently graduated as a master in electrical engineering with the major embedded systems (M. Sc.).
 
 **[Github sponsoring is welcome.](https://github.com/sponsors/robseb)**
